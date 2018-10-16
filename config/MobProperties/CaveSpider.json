@@ -1,0 +1,22 @@
+{
+  "_name": "CaveSpider",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the cave spider's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 10~30,
+    "override": true
+    },
+    {
+    "_comment": "increase the cave spider's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 700,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

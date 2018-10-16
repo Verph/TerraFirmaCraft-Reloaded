@@ -1,0 +1,15 @@
+{
+  "_name": "etfuturum.rabbit",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the cave rabbit's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 150,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

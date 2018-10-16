@@ -1,0 +1,15 @@
+{
+  "_name": "Whale",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 3500,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

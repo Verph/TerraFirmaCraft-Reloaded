@@ -1,0 +1,38 @@
+{
+  "_name": "terrafirmacraft:log",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 50.0,
+    "resistance": 250.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "hammer",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [
+			{
+				"function": "if_has_tool_level_pickaxe_1",
+				"functions": [{
+					"set_block": "terrafirmacraft:log:6",
+					"count": "1",
+					"id":"terrafirmacraft:item.Log"
+				}]
+			},
+			{
+				"function": "if_has_tool_level_axe_1",
+				"functions": [{
+					"set_block": "terrafirmacraft:log:6",
+					"count": "1",
+					"id":"terrafirmacraft:item.Log"
+				}]
+			}
+		],
+  "xp": []
+}

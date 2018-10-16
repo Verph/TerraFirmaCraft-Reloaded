@@ -1,0 +1,94 @@
+{
+    "changeFoods":
+		[
+		{
+			"name": "psychedelicraft:hashMuffin",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:teaItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:raspberryicedteaItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:chaiteaItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:tealeafItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "exoticbirds:birdmeat_small",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "exoticbirds:cooked_birdmeat_small",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "exoticbirds:birdmeat_large",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "exoticbirds:cooked_birdmeat_large",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "minecraft:chicken",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "minecraft:cooked_chicken",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "etfuturum:rabbit_raw",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "etfuturum:rabbit_cooked",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "minecraft:cookie",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:peanutbuttercookiesItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:raisincookiesItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:chaoscookieItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "harvestcraft:creamcookieItem",
+            "alwaysEdible": "true"
+        },
+		{
+			"name": "plantmegapack:foodCookiePeanutButter",
+            "alwaysEdible": "true"
+        }
+    ]
+}
+
+{
+    "changeFoods":
+		[
+		{
+			"name": "harvestcraft:cocoapowderItem",
+            "alwaysEdible": "true",
+			"potionEffects": "moveSpeed",
+			"potionAmplifier": "3",
+			"potionDuration": "60"
+        }
+    ]
+}

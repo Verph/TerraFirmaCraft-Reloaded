@@ -1,0 +1,22 @@
+{
+  "_name": "Slime",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the slime's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 15,
+    "override": true
+    },
+    {
+    "_comment": "increase the slime's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 700,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

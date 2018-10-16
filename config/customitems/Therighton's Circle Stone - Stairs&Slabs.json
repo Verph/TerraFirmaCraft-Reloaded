@@ -1,0 +1,604 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Circle Andesite Stairs",                            
+			"type":"stairs"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleAndesite",
+	    "toolClass":"pickaxe"            
+
+        },		
+        {
+            "name": "Circle Andesite Slab",                            
+			"type":"slab"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleAndesite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Basalt Stairs",                               
+			"type":"stairs";            
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleBasalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Basalt Slab",                              
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleBasalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Chalk Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleChalk",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Chalk Slab",                                 
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleChalk",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Chert Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleChert",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Chert Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleChert",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Claystone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleClaystone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Claystone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleClaystone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Conglomerate Stairs",                                
+			"type":"stairs";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "CircleConglomerate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Conglomerate Slab",                                
+			"type":"slab";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "CircleConglomerate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Dacite Stairs",                                    
+			"type":"stairs";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDacite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Dacite Slab",                                    
+			"type":"slab";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDacite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Diorite Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDiorite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Diorite Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDiorite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Dolomite Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDolomite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Dolomite Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleDolomite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Gabbro Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGabbro",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Gabbro Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGabbro",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Gneiss Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGneiss",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Gneiss Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGneiss",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Granite Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGranite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Granite Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleGranite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Limestone Stairs",                                       
+			"type":"stairs";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleLimestone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Limestone Slab",                                       
+			"type":"slab";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleLimestone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Marble Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleMarble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Marble Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleMarble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Phyllite Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CirclePhyllite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Phyllite Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CirclePhyllite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Quartzite Stairs",                                
+			"type":"stairs";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleQuartzite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Quartzite Slab",                                
+			"type":"slab";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleQuartzite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Rhyolite Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleRhyolite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Rhyolite Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleRhyolite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Rock Salt Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Rock Salt Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Schist Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSchist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Schist Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSchist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Shale Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleShale",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Shale Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleShale",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Slate Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSlate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Slate Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSlate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Jet Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleJet",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Jet Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleJet",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Serpentine Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSerpentine",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Circle Serpentine Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Circle Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "CircleSerpentine",
+	    "toolClass":"pickaxe"            
+
+        }
+    ]
+}

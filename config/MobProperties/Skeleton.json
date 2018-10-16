@@ -1,0 +1,22 @@
+{
+  "_name": "Skeleton",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the skeleton's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 50,
+    "override": true
+    },
+    {
+    "_comment": "increase the skeleton's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 1500,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

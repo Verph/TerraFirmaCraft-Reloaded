@@ -1,0 +1,12 @@
+{
+  "_name": "silverfishTFC",
+  "drops": [
+            {
+              "function": "add",
+              "id": "ghast_tear",
+              "count": 0.70
+        }
+	],
+  "pre_stats": [],
+  "stats": []
+}

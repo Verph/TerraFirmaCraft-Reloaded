@@ -1,0 +1,68 @@
+{
+	"creativeTabs":[
+		{
+			"tabLabel":"Therighthon's TFC addon",
+			"iconItem":"terrafirmacraft:item.ItemStoneBrick"                
+		},
+		{
+			"tabLabel":"Therighthon's Tile Expansion",
+			"iconItem":"customitems:schist_tile_stairs"                
+		},
+		{
+			"tabLabel":"Therighthon's Fancy Tile Expansion",
+			"iconItem":"customitems:claystone_fancy_tile_stairs"                
+		},
+		{
+			"tabLabel":"Therighthon's Circle Stone Expansion",
+			"iconItem":"customitems:circle_marble_stairs"                
+		},
+		{
+			"tabLabel":"Material Expansion",
+			"iconItem":"customitems:square_framed_cross"
+		},
+		{
+			"tabLabel":"Brick Expansion",
+			"iconItem":"customitems:brick_bond_dark_left"
+		},
+		{
+			"tabLabel":"Roof Expansion",
+			"iconItem":"customitems:terracotta_stair_tiles"
+		},
+		{
+			"tabLabel":"Plank Expansion",
+			"iconItem":"customitems:acacia_plank_stairs"
+		},
+		{
+			"tabLabel":"Large Planks Expansion",
+			"iconItem":"customitems:acacia_large_plank_stairs"
+		},
+		{
+			"tabLabel":"Vertical Planks Expansion",
+			"iconItem":"customitems:acacia_vertical_plank_stairs"
+		},
+		{
+			"tabLabel":"Raw Stone Expansion",
+			"iconItem":"terrafirmacraft:StoneMM:5"
+		},
+		{
+			"tabLabel":"Cobblestone Expansion",
+			"iconItem":"terrafirmacraft:StoneMMCobble:5"
+		},
+		{
+			"tabLabel":"Stone Brick Expansion",
+			"iconItem":"terrafirmacraft:StoneMMBrick:5"
+		},
+		{
+			"tabLabel":"Smooth Stone Expansion",
+			"iconItem":"terrafirmacraft:StoneMMSmooth:5"
+		},
+		{
+			"tabLabel":"Log Expansion",
+			"iconItem":"terrafirmacraft:item.Log"
+		},
+		{
+			"tabLabel":"Miscellaneous Things",
+			"iconItem":"customitems:dust"
+		}
+	]
+}

@@ -1,0 +1,552 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Brick Stairs",                            
+			"type":"stairs"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Brick",
+	    "toolClass":"pickaxe"            
+
+        },		
+        {
+            "name": "Andesite Brick Slab",                            
+			"type":"slab"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Brick Stairs",                               
+			"type":"stairs";            
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Brick Slab",                              
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Brick Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Brick Slab",                                 
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Brick Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Brick Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Brick Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Brick Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Brick Stairs",                                
+			"type":"stairs";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Brick Slab",                                
+			"type":"slab";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Brick Stairs",                                    
+			"type":"stairs";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Brick Slab",                                    
+			"type":"slab";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Brick Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Brick Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Brick Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Brick Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Brick Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Brick Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Brick Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Brick Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Brick Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Brick Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Brick Stairs",                                       
+			"type":"stairs";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Brick Slab",                                       
+			"type":"slab";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Brick Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Brick Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Brick Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Brick Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Brick Stairs",                                
+			"type":"stairs";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Brick Slab",                                
+			"type":"slab";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Brick Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Brick Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Brick Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Brick Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Brick Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Brick Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Brick Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Brick Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Brick Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Brick",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Brick Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Stone Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Brick",
+	    "toolClass":"pickaxe"            
+
+        }
+    ]
+}

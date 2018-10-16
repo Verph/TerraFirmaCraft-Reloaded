@@ -1,0 +1,212 @@
+{
+  "_name": "terrafirmacraft:TallGrass",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "sound": "grass",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:hop_seeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:cocaSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:tobaccoSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:cannabisSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:coffeaCherries"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:wineGrapes"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"psychedelicraft:peyote"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"harvestcraft:cottonseedItem"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"harvestcraft:pineappleseedItem"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"harvestcraft:grapeseedItem"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"harvestcraft:teaseedItem"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Wheat"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Barley"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Rye"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Oat"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Rice"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Maize"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Potato"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Onion"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Cabbage"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Garlic"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Carrot"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Sugarcane"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Tomato"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Yellow Bell Pepper"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Red Bell Pepper"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Soybean"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Greenbean"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Squash"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"terrafirmacraft:item.Seeds Jute"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"TerraFirmaPumpkins:item.Seeds Pumpkin"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"TerraFirmaPumpkins:item.Seeds Melon"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.MelonSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.LettuceSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.PumpkinSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.PeanutSeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.CelerySeeds"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.RedMushroomSpores"
+			},
+			{
+				"function": "add",
+				"count": "0.006",
+				"id":"cookingwithtfc:item.BrownMushroomSpores"
+		}
+	],
+  "harvest": [],
+  "xp": []
+}

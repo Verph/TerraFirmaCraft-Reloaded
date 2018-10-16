@@ -1,0 +1,2347 @@
+
+{
+    "blocks":
+    [
+		{
+            "name": "Spodumene",
+            "textureName": "orespodumene", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:spodumene_chunk",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Ulexite Rock Salt Ore",
+            "textureName": "oreulexite rock salt", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:ulexite_mineral",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Ulexite Chalk Ore",
+            "textureName": "oreulexite chalk", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:ulexite_mineral",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Shale Ore",
+            "textureName": "oresalt shale", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Rock Salt Ore",
+            "textureName": "oresalt rock salt", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Limestone Ore",
+            "textureName": "oresalt limestone", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Dolomite Ore",
+            "textureName": "oresalt dolomite", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Claystone Ore",
+            "textureName": "oresalt claystone", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Chalk Ore",
+            "textureName": "oresalt chalk", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Conglomerate Ore",
+            "textureName": "oresalt conglomerate", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Chert Ore",
+            "textureName": "oresalt chert", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+        {
+            "name": "Dust",              
+            "material": "sand",         
+            "type": "falling", 
+	    "maxStackSize":32,                   
+            "hardness": 1,
+		"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+	    "textureName": "blockdust",
+	    "toolClass": "shovel",
+		"stepSound": "sand"
+
+        },
+		
+        {
+            "name": "Andesite Tile",              
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "AndesiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Basalt Tile",              
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Chalk Tile",              
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChalkTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChertTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ClaystoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Tile",              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "ConglomerateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DaciteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DioriteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DolomiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GabbroTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GneissTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Granite Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GraniteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "LimestoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "MarbleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "PhylliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "QuartziteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Tile",              
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "RhyoliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+
+        {
+            "name": "Rock Salt Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Tile",              
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SchistTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Tile",              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ShaleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SlateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Jet Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "JetTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Serpentine Tile",              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's TFC addon",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SerpentineTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Bottom Left Framed Arrow",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+        "textureName": "daub_cob_arrow0",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Left Framed Arrow",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_arrow1",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom Right Framed Arrow",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_arrow2",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Right Framed Arrow",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_arrow3",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Lower Left Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor0",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Upper Left Sideways Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor1",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Lower Right Sideways Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor2",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Upper Left Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor3",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Lower Right Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor4",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Lower Left sideways Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor5",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Upper Right Sideways Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor6",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Upper Right Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_barndoor7",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_bottom",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom Left Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_bottom_l",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom Right Framed",
+            "material": "wood",
+	    "maxStackSize":32,
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_bottom_r",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Left Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_left",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Parallel Horizontals",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_parallel_hor",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Parallel Verticals",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_parallel_vert",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Right Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_right",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Diagonal Left",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_slash",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Diagonal Right",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_slash_back",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Square Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_square",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Square Framed Cross",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_square_x",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_top",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Left Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_top_l",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Right Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_top_r",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom Left Triangle",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_triangle0",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Left Triangle",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_triangle1",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom Right Triangle",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_triangle2",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top Right Triangle",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_triangle3",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Frameless Cross",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_x",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Bottom-less Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xbottom",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Lower Cross Framed Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xdoor0",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Left Sideways Cross Framed Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xdoor1",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Right Sideways Cross Framed Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xdoor2",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Upper Cross Framed Barndoor",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xdoor3",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Left-less Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xleft",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Right-less Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xright",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Top-less Framed",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob_xtop",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Frameless Tile One",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob0",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Frameless Stairs One",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob0",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Frameless Slab One",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob0",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Frameless Tile Two",              
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob1",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Frameless Stairs Two",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob1",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Frameless Slab Two",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "textureName": "daub_cob1",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Granite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth granite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Granite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth granite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Granite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth granite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Diorite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth diorite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Diorite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth diorite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Diorite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth diorite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Gabbro Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth gabbro",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Gabbro Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth gabbro",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Gabbro Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth gabbro",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Shale Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth shale",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Shale Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth shale",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Shale Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth shale",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Claystone Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth claystone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Claystone Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth claystone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Claystone Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth claystone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Rock Salt Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth rock salt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Rock Salt Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth rock salt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Rock Salt Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth rock salt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Limestone Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth limestone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Limestone Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth limestone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Limestone Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth limestone",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Conglomerate Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth conglomerate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Conglomerate Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth conglomerate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Conglomerate Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth conglomerate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Dolomite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth dolomite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Dolomite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth dolomite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Dolomite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth dolomite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Chert Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth chert",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Chert Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth chert",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Chert Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth chert",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Chalk Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth chalk",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Chalk Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth chalk",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Chalk Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth chalk",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Rhyolite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth rhyolite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Rhyolite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth rhyolite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Rhyolite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth rhyolite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Basalt Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth basalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Basalt Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth basalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Basalt Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth basalt",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Andesite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth andesite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Andesite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth andesite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Andesite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth andesite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Dacite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth dacite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Dacite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth dacite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Dacite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth dacite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Quartzite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth quartzite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Quartzite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth quartzite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Quartzite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth quartzite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Slate Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth slate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Slate Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth slate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Slate Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth slate",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Phyllite Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth phyllite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Phyllite Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth phyllite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Phyllite Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth phyllite",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Schist Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth schist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Schist Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth schist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Schist Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth schist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Gneiss Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth gneiss",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Gneiss Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth gneiss",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Gneiss Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth gneiss",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Marble Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth marble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Marble Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth marble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Marble Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth marble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Blueschist Earth",              
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth blueschist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Blueschist Earth Stairs",              
+			"type":"stairs"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth blueschist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rammed Blueschist Earth Slab",              
+			"type":"slab"; 
+            "material": "ground",    
+	    "maxStackSize":32,                
+            "hardness": 4,
+		"creativeTab":"Material Expansion",
+            "resistance": 25,
+            "harvestLevel": 0,
+	    "textureName": "rammed_earth blueschist",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Combination Stack Bottom",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickCombinationStackBottom",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Combination Stack Bottom Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickCombinationStackBottom",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Combination Stack Top",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickCombinationStackTop",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Combination Stack Top Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickCombinationStackTop",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Stacked Bond",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickStackedBond",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Stacked Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickStackedBond",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Soldier",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickSoldier",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Soldier Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickSoldier",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Double Brick Basket",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DoubleBrickBasket",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Double Brick Basket Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DoubleBrickBasket",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Double Brick Basket 90 Degrees",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DoubleBrickBasket90",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Double Brick Basket Slab 90 Degrees",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DoubleBrickBasket90",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Herring",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickHerring",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Herring Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickHerring",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Bond Dark Left",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickBondDarkLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Bond Dark Left Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickBondDarkLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Bond Dark Right",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickBondDarkRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Bond Dark Right Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickBondDarkRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basketweave Brick Bottom",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasketweaveBrickBottom",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basketweave Brick Bottom Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasketweaveBrickBottom",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basketweave Brick Top",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasketweaveBricktop",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basketweave Brick Top Slab",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasketweaveBricktop",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Left",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Slab Left",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Center",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Slab Center",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Right",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Slab Right",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Center Left",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenterLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Center Slab Left",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenterLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Center",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Slab Center",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Center Right",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenterRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Slab Center Right",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenterRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Top Left",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Slab Top Left",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Top Center",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Slab Top Center",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Top Right",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Slab Top Right",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopRight",
+	    "toolClass":"pickaxe"            
+
+        }
+       
+    ]
+}

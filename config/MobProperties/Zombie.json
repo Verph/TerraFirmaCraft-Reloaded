@@ -1,0 +1,22 @@
+{
+  "_name": "Zombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the spider's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 30,
+    "override": true
+    },
+    {
+    "_comment": "increase the spider's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 500,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

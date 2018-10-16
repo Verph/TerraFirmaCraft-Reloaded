@@ -1,0 +1,552 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Smooth Stone Stairs",                            
+			"type":"stairs"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },		
+        {
+            "name": "Andesite Smooth Stone Slab",                            
+			"type":"slab"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Smooth Stone Stairs",                               
+			"type":"stairs";            
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Smooth Stone Slab",                              
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Smooth Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Smooth Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Smooth Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Smooth Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Smooth Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Smooth Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Smooth Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Smooth Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Smooth Stone Stairs",                                    
+			"type":"stairs";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Smooth Stone Slab",                                    
+			"type":"slab";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Smooth Stone Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Smooth Stone Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Smooth Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Smooth Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Smooth Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Smooth Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Smooth Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Smooth Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Smooth Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Smooth Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Smooth Stone Stairs",                                       
+			"type":"stairs";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Smooth Stone Slab",                                       
+			"type":"slab";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Smooth Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Smooth Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Smooth Stone Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Smooth Stone Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Smooth Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Smooth Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Smooth Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Smooth Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Smooth Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Smooth Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Smooth Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Smooth Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Smooth Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Smooth Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Smooth Stone Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Smooth",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Smooth Stone Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Smooth Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Smooth",
+	    "toolClass":"pickaxe"            
+
+        }
+    ]
+}

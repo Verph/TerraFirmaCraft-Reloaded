@@ -1,0 +1,139 @@
+{
+    "helmets": [
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Tin Helmet",
+            "textureName": "Tin Helmet",
+			"texture": "tin_1",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Zinc Helmet",
+            "textureName": "Zinc Helmet",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Bismuth Helmet",
+            "textureName": "Bismuth Helmet",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Rose Gold Helmet",
+            "textureName": "Rose Gold Helmet",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        }
+    ],
+    "chestplates": [
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Tin Chestplate",
+            "textureName": "Tin Chestplate",
+            "durability": 3751,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Zinc Chestplate",
+            "textureName": "Zinc Chestplate",
+            "durability": 3751,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Bismuth Chestplate",
+            "textureName": "Bismuth Chestplate",
+            "durability": 3751,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Rose Gold Chestplate",
+            "textureName": "Rose Gold Chestplate",
+            "durability": 3751,
+            "reduction": 100,
+            "enchantability": 15
+        }
+    ],
+    "leggings": [
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Tin Greaves",
+            "textureName": "Tin Greaves",
+            "durability": 3001,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Zinc Greaves",
+            "textureName": "Zinc Greaves",
+            "durability": 3001,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Bismuth Greaves",
+            "textureName": "Bismuth Greaves",
+            "durability": 3001,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Rose Gold Greaves",
+            "textureName": "Rose Gold Greaves",
+            "durability": 3001,
+            "reduction": 100,
+            "enchantability": 15
+        }
+    ],
+    "boots": [
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Tin Boots",
+            "textureName": "Tin Boots",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Zinc Boots",
+            "textureName": "Zinc Boots",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Bismuth Boots",
+            "textureName": "Bismuth Boots",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        },
+        {
+		"creativeTab":"TerraFirmaCraft Old Armor & Tools",
+            "name": "Rose Gold Boots",
+            "textureName": "Rose Gold Boots",
+            "durability": 2501,
+            "reduction": 100,
+            "enchantability": 15
+        }
+    ]
+}

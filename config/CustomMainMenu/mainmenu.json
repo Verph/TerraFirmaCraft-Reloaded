@@ -1,0 +1,287 @@
+{
+    "images":
+    {        
+    },
+   
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -78,
+            "posY" : 4,
+            "width" : 75,
+            "height" : 24,
+			"imageWidth" : 122,
+			"imageHeight" : 37,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/button.png",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            },
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 3,
+            "posY" : 4,
+            "width" : 75,
+            "height" : 24,
+			"imageWidth" : 122,
+			"imageHeight" : 37,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/button.png",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            },
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "public server":
+        {
+            "text" : "Server",
+            "posX" : -78,
+            "posY" : 32,
+            "width" : 75,
+            "height" : 24,
+			"imageWidth" : 122,
+			"imageHeight" : 37,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/button.png",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "Public Server",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "mc21.fadehost.com:28258"
+            },
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+           
+        "options":
+        {
+            "text" : "Options",
+            "posX" : 3,
+            "posY" : 32,
+            "width" : 75,
+            "height" : 24,
+			"imageWidth" : 122,
+			"imageHeight" : 37,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/button.png",
+            "normalTextColor" : 16777215,
+            "hoverTextColor" : 16777215,
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            },
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "curseforge":
+        {
+            "text" : "",
+            "posX" : -72,
+            "posY" : 71,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 25,
+			"imageHeight" : 25,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/curseforge.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "CurseForge",
+            "action" : 
+            {
+                "type": "openLink",
+                "link" : "https://minecraft.curseforge.com/projects/terrafirmacraft-reloaded"
+            },
+			"hoverSound" : "menu:sounds/hover",
+			"pressSound" : "menu:sounds/click",
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "discord":
+        {
+            "text" : "",
+            "posX" : -47,
+            "posY" : 71,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 25,
+			"imageHeight" : 25,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/discord.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "Discord Server",
+            "action" : 
+            {
+                "type": "openLink",
+                "link" : "https://discord.gg/nFPuMmk"
+            },
+			"hoverSound" : "menu:sounds/hover",
+			"pressSound" : "menu:sounds/click",
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "languages":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 71,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 25,
+			"imageHeight" : 25,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/language.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "Languages",
+            "action" : 
+            {
+                "type" : "openGui",
+				"gui" : "languages"
+            },
+			"hoverSound" : "menu:sounds/hover",
+			"pressSound" : "menu:sounds/click",
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "patreon":
+        {
+            "text" : "",
+            "posX" : 3,
+            "posY" : 71,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 25,
+			"imageHeight" : 25,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/patreon.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "Patreon",
+            "action" : 
+            {
+                "type": "openLink",
+                "link" : "https://www.patreon.com/Verph"
+            },
+			"hoverSound" : "menu:sounds/hover",
+			"pressSound" : "menu:sounds/click",
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "paypal":
+        {
+            "text" : "",
+            "posX" : 28,
+            "posY" : 71,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 25,
+			"imageHeight" : 25,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/paypal.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "PayPal",
+            "action" : 
+            {
+                "type": "openLink",
+                "link" : "https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/terrafirmacraft-reloaded?gameCategorySlug=modpacks&projectID=247181&cn=Add+special+instructions+to+the+addon+author()&business=gustav-lund%40outlook.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://minecraft.curseforge.com/projects/terrafirmacraft-reloaded?gameCategorySlug=modpacks&projectID=247181&lc=US&item_name=TerraFirmaCraft+Reloaded+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD"
+            },
+			"hoverSound" : "menu:sounds/hover",
+			"pressSound" : "menu:sounds/click",
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        },
+       
+        "quit":
+        {
+            "text" : "",
+            "posX" : 53,
+            "posY" : 71,
+            "width" : 20,
+            "height" : 20,
+			"imageWidth" : 25,
+			"imageHeight" : 25,
+            "alignment" : "center",
+            "texture" : "mainmenu:textures/quit.png",
+            "normalTextColor" : 6579300,
+            "hoverTextColor" : 16777215,
+            "tooltip" : "Quit Game",
+            "action" : 
+            {
+                "type" : "quit"
+            },
+			"hoverSound" : "menu:sounds/hover",
+			"pressSound" : "menu:sounds/click",
+            "shadow" : false,
+			"hoverSound" : "menu:hover",
+			"pressSound" : "menu:click"
+        }
+    },
+   
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Forge #forgeversion# for MC #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX" : 20,
+            "posY" : -10,
+            "color" : -1,
+			"fontSize" : 0.5,
+            "alignment" : "bottom_left"
+        }
+    },
+   
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 370,
+            "posY" : 320,
+            "color" : -256,
+            "alignment" : "left_top",
+            "texts" : "file:mainmenu:texts/splashes.txt"
+        },
+		
+        "background":
+        {
+            "image" : "mainmenu:textures/menu-lavender&lilac.png",
+            "mode" : "stretch"
+        }
+    }
+}

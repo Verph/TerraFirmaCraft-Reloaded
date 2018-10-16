@@ -1,0 +1,22 @@
+{
+  "_name": "MantaRay",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 30,
+    "override": true
+    },
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 450,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

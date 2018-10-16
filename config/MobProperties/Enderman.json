@@ -1,0 +1,22 @@
+{
+  "_name": "Enderman",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the cave spider's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 30~80,
+    "override": true
+    },
+    {
+    "_comment": "increase the cave spider's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 4000,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

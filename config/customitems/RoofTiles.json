@@ -1,0 +1,235 @@
+
+{
+    "blocks":
+    [
+		{
+            "name": "Rusty Copper Tiles",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_copper_tiles_rusty",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rusty Copper Stair Tiles",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_copper_tiles_rusty",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rusty Copper Slab Tiles",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_copper_tiles_rusty",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Copper Tiles",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_copper_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Copper Stair Tiles",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_copper_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Copper Slab Tiles",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_copper_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Iron Tiles",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_iron_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Iron Stair Tiles",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_iron_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Iron Slab Tiles",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_iron_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Terracotta Tiles",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_terracotta_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Terracotta Stair Tiles",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_terracotta_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Terracotta Slab Tiles",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_terracotta_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Tiles",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_slate_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Stair Tiles",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_slate_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Slab Tiles",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_slate_tiles_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Old Terracotta Tiles",              
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_old_terracotta_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Old Terracotta Stair Tiles",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_old_terracotta_top",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Old Terracotta Slab Tiles",              
+			"type":"slab"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Roof Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "roof_old_terracotta_top",
+	    "toolClass":"pickaxe"            
+
+        }
+       
+    ]
+}

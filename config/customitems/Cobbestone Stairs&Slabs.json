@@ -1,0 +1,552 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Cobblestone Stairs",                            
+			"type":"stairs"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },		
+        {
+            "name": "Andesite Cobblestone Slab",                            
+			"type":"slab"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Cobblestone Stairs",                               
+			"type":"stairs";            
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Cobblestone Slab",                              
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Cobblestone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Cobblestone Slab",                                 
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Cobblestone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Cobblestone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Cobblestone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Cobblestone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Cobblestone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Cobblestone Slab",                                
+			"type":"slab";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Cobblestone Stairs",                                    
+			"type":"stairs";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Cobblestone Slab",                                    
+			"type":"slab";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Cobblestone Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Cobblestone Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Cobblestone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Cobblestone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Cobblestone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Cobblestone Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Cobblestone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Cobblestone Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Cobblestone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Cobblestone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Cobblestone Stairs",                                       
+			"type":"stairs";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Cobblestone Slab",                                       
+			"type":"slab";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Cobblestone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Cobblestone Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Cobblestone Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Cobblestone Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Cobblestone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Cobblestone Slab",                                
+			"type":"slab";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Cobblestone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Cobblestone Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Cobblestone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Cobblestone Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Cobblestone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Cobblestone Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Cobblestone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Cobblestone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Cobblestone Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Cobble",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Cobblestone Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Cobblestone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Cobble",
+	    "toolClass":"pickaxe"            
+
+        }
+    ]
+}

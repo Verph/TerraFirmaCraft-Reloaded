@@ -1,0 +1,22 @@
+{
+  "_name": "Snake",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "makes Solid Snake punch much harder",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 30,
+    "override": true
+    },
+    {
+    "_comment": "makes Solid Snake a lot more strong",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 250,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

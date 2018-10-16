@@ -1,0 +1,1005 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Cherry Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogCherryTop",
+                "ypos":"LogCherryTop",
+                "zneg":"LogCherry",
+                "zpos":"LogCherry",
+                "xneg":"LogCherry",
+                "xpos":"LogCherry"
+            }
+        },
+		
+        {
+            "name": "Stripped Cherry Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogCherryStrippedTop",
+                "ypos":"LogCherryStrippedTop",
+                "zneg":"LogCherryStripped",
+                "zpos":"LogCherryStripped",
+                "xneg":"LogCherryStripped",
+                "xpos":"LogCherryStripped"
+            }
+        },
+		
+        {
+            "name": "Cherry Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "CherryPlanks"
+
+        },
+		
+        {
+            "name": "Cherry Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"flammability": "20",
+			"fireEncouragement": "5",
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "CherryPlanks"
+
+        },
+		
+        {
+            "name": "Cherry Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"flammability": "20",
+			"fireEncouragement": "5",
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "CherryPlanks"
+
+        },
+		
+        {
+            "name": "Cherry Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"flammability": "20",
+			"fireEncouragement": "5",
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "CherryPlanks"
+
+        },
+		
+        {
+            "name": "Cherry Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"flammability": "20",
+			"fireEncouragement": "5",
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "CherryPlanks"
+
+        },
+		
+        {
+            "name": "Ebony Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogEbonyTop",
+                "ypos":"LogEbonyTop",
+                "zneg":"LogEbony",
+                "zpos":"LogEbony",
+                "xneg":"LogEbony",
+                "xpos":"LogEbony"
+            }
+        },
+		
+        {
+            "name": "Stripped Ebony Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogEbonyStrippedTop",
+                "ypos":"LogEbonyStrippedTop",
+                "zneg":"LogEbonyStripped",
+                "zpos":"LogEbonyStripped",
+                "xneg":"LogEbonyStripped",
+                "xpos":"LogEbonyStripped"
+            }
+        },
+		
+        {
+            "name": "Ebony Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "EbonyPlanks"
+
+        },
+		
+        {
+            "name": "Ebony Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EbonyPlanks"
+
+        },
+		
+        {
+            "name": "Ebony Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EbonyPlanks"
+
+        },
+		
+        {
+            "name": "Ebony Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EbonyPlanks"
+
+        },
+		
+        {
+            "name": "Ebony Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EbonyPlanks"
+
+        },
+		
+        {
+            "name": "Eucalyptus Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogEucalyptusTop",
+                "ypos":"LogEucalyptusTop",
+                "zneg":"LogEucalyptus",
+                "zpos":"LogEucalyptus",
+                "xneg":"LogEucalyptus",
+                "xpos":"LogEucalyptus"
+            }
+        },
+		
+        {
+            "name": "Stripped Eucalyptus Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogEucalyptusStrippedTop",
+                "ypos":"LogEucalyptusStrippedTop",
+                "zneg":"LogEucalyptusStripped",
+                "zpos":"LogEucalyptusStripped",
+                "xneg":"LogEucalyptusStripped",
+                "xpos":"LogEucalyptusStripped"
+            }
+        },
+		
+        {
+            "name": "Eucalyptus Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "EucalyptusPlanks"
+
+        },
+		
+        {
+            "name": "Eucalyptus Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EucalyptusPlanks"
+
+        },
+		
+        {
+            "name": "Eucalyptus Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EucalyptusPlanks"
+
+        },
+		
+        {
+            "name": "Eucalyptus Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EucalyptusPlanks"
+
+        },
+		
+        {
+            "name": "Eucalyptus Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "EucalyptusPlanks"
+
+        },
+		
+        {
+            "name": "Jacaranda Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogJacarandaTop",
+                "ypos":"LogJacarandaTop",
+                "zneg":"LogJacaranda",
+                "zpos":"LogJacaranda",
+                "xneg":"LogJacaranda",
+                "xpos":"LogJacaranda"
+            }
+        },
+		
+        {
+            "name": "Stripped Jacaranda Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogJacarandaStrippedTop",
+                "ypos":"LogJacarandaStrippedTop",
+                "zneg":"LogJacarandaStripped",
+                "zpos":"LogJacarandaStripped",
+                "xneg":"LogJacarandaStripped",
+                "xpos":"LogJacarandaStripped"
+            }
+        },
+		
+        {
+            "name": "Jacaranda Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "JacarandaPlanks"
+
+        },
+		
+        {
+            "name": "Jacaranda Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JacarandaPlanks"
+
+        },
+		
+        {
+            "name": "Jacaranda Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JacarandaPlanks"
+
+        },
+		
+        {
+            "name": "Jacaranda Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JacarandaPlanks"
+
+        },
+		
+        {
+            "name": "Jacaranda Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JacarandaPlanks"
+
+        },
+		
+        {
+            "name": "Mahogany Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogMahoganyTop",
+                "ypos":"LogMahoganyTop",
+                "zneg":"LogMahogany",
+                "zpos":"LogMahogany",
+                "xneg":"LogMahogany",
+                "xpos":"LogMahogany"
+            }
+        },
+		
+        {
+            "name": "Stripped Mahogany Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogMahoganyStrippedTop",
+                "ypos":"LogMahoganyStrippedTop",
+                "zneg":"LogMahoganyStripped",
+                "zpos":"LogMahoganyStripped",
+                "xneg":"LogMahoganyStripped",
+                "xpos":"LogMahoganyStripped"
+            }
+        },
+		
+        {
+            "name": "Mahogany Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "MahoganyPlanks"
+
+        },
+		
+        {
+            "name": "Mahogany Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "MahoganyPlanks"
+
+        },
+		
+        {
+            "name": "Mahogany Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "MahoganyPlanks"
+
+        },
+		
+        {
+            "name": "Mahogany Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "MahoganyPlanks"
+
+        },
+		
+        {
+            "name": "Mahogany Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "MahoganyPlanks"
+
+        },
+		
+        {
+            "name": "Redwood Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogRedwoodTop",
+                "ypos":"LogRedwoodTop",
+                "zneg":"LogRedwood",
+                "zpos":"LogRedwood",
+                "xneg":"LogRedwood",
+                "xpos":"LogRedwood"
+            }
+        },
+		
+        {
+            "name": "Stripped Redwood Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogRedwoodStrippedTop",
+                "ypos":"LogRedwoodStrippedTop",
+                "zneg":"LogRedwoodStripped",
+                "zpos":"LogRedwoodStripped",
+                "xneg":"LogRedwoodStripped",
+                "xpos":"LogRedwoodStripped"
+            }
+        },
+		
+        {
+            "name": "Redwood Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "RedwoodPlanks"
+
+        },
+		
+        {
+            "name": "Redwood Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "RedwoodPlanks"
+
+        },
+		
+        {
+            "name": "Redwood Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "RedwoodPlanks"
+
+        },
+		
+        {
+            "name": "Redwood Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "RedwoodPlanks"
+
+        },
+		
+        {
+            "name": "Redwood Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "RedwoodPlanks"
+
+        },
+		
+        {
+            "name": "Stripped Juniper Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"LogJuniperStrippedTop",
+                "ypos":"LogJuniperStrippedTop",
+                "zneg":"LogJuniperStripped",
+                "zpos":"LogJuniperStripped",
+                "xneg":"LogJuniperStripped",
+                "xpos":"LogJuniperStripped"
+            }
+        },
+		
+        {
+            "name": "Juniper Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "JuniperPlanks"
+
+        },
+		
+        {
+            "name": "Juniper Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JuniperPlanks"
+
+        },
+		
+        {
+            "name": "Juniper Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JuniperPlanks"
+
+        },
+		
+        {
+            "name": "Juniper Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JuniperPlanks"
+
+        },
+		
+        {
+            "name": "Juniper Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "JuniperPlanks"
+
+        },
+		
+        {
+            "name": "Stripped Rowan Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogRowanTop",
+                "ypos":"StrippedLogRowanTop",
+                "zneg":"StrippedLogRowan",
+                "zpos":"StrippedLogRowan",
+                "xneg":"StrippedLogRowan",
+                "xpos":"StrippedLogRowan"
+            }
+        },
+		
+        {
+            "name": "Rowan Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "Rowan Plank"
+
+        },
+		
+        {
+            "name": "Rowan Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Rowan Plank"
+
+        },
+		
+        {
+            "name": "Rowan Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Rowan Plank"
+
+        },
+		
+        {
+            "name": "Rowan Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Rowan Plank"
+
+        },
+		
+        {
+            "name": "Rowan Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Rowan Plank"
+
+        },
+		
+        {
+            "name": "Stripped Hagberry Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogHagberryTop",
+                "ypos":"StrippedLogHagberryTop",
+                "zneg":"StrippedLogHagberry",
+                "zpos":"StrippedLogHagberry",
+                "xneg":"StrippedLogHagberry",
+                "xpos":"StrippedLogHagberry"
+            }
+        },
+		
+        {
+            "name": "Hagberry Planks",
+            "material": "wood",
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "maxStackSize":32,
+	    "toolClass":"axe",
+	    "textureName": "Hagberry Plank"
+
+        },
+		
+        {
+            "name": "Hagberry Stairs",
+			"type":"stairs";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Hagberry Plank"
+
+        },
+		
+        {
+            "name": "Hagberry Slab",
+			"type":"slab";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Hagberry Plank"
+
+        },
+		
+        {
+            "name": "Hagberry Fence",
+			"type":"fence";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Hagberry Plank"
+
+        },
+		
+        {
+            "name": "Hagberry Fence Gate",
+			"type":"gate";
+            "material": "wood",
+            "hardness": 2,
+			"maxStackSize":16,
+            "resistance": 15,
+            "harvestLevel": 0,
+		"creativeTab":"Log Expansion",
+	    "toolClass":"axe",
+	    "textureName": "Hagberry Plank"
+
+        }
+    ]
+}
+
+
+{
+    "changeBlocks":
+		[
+		
+		{
+			"name": "minecraft:log:0",
+            "hardness": 4,
+            "resistance": 15,
+			"maxStackSize":16
+        },
+		
+		{
+			"name": "minecraft:log:1",
+            "hardness": 4,
+            "resistance": 15,
+			"maxStackSize":16
+        },
+		
+		{
+			"name": "minecraft:log:2",
+            "hardness": 4,
+            "resistance": 15,
+			"maxStackSize":16
+        },
+		
+		{
+			"name": "minecraft:log:3",
+            "hardness": 4,
+            "resistance": 15,
+			"maxStackSize":16
+        },
+		
+		{
+			"name": "minecraft:log2:0",
+            "hardness": 4,
+            "resistance": 15,
+			"maxStackSize":16
+        },
+		
+		{
+			"name": "minecraft:log2:1",
+            "hardness": 4,
+            "resistance": 15,
+			"maxStackSize":16
+        }
+    ]
+}

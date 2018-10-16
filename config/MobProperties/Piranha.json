@@ -1,0 +1,22 @@
+{
+  "_name": "Piranha",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the piranha's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 15,
+    "override": true
+    },
+    {
+    "_comment": "increase the piranha's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 250,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

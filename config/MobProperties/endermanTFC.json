@@ -1,0 +1,12 @@
+{
+  "_name": "endermanTFC",
+  "drops": [
+            {
+              "function": "add",
+              "id": "ender_pearl",
+              "count": 0.33
+        }
+	],
+  "pre_stats": [],
+  "stats": []
+}

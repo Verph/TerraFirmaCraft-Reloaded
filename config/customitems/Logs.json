@@ -1,0 +1,379 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Stripped Oak Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogOakTop",
+                "ypos":"StrippedLogOakTop",
+                "zneg":"StrippedLogOak",
+                "zpos":"StrippedLogOak",
+                "xneg":"StrippedLogOak",
+                "xpos":"StrippedLogOak"
+            }
+        },
+		
+        {
+            "name": "Stripped Aspen Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogAspenTop",
+                "ypos":"StrippedLogAspenTop",
+                "zneg":"StrippedLogAspen",
+                "zpos":"StrippedLogAspen",
+                "xneg":"StrippedLogAspen",
+                "xpos":"StrippedLogAspen"
+            }
+        },
+		
+        {
+            "name": "Stripped Birch Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogBirchTop",
+                "ypos":"StrippedLogBirchTop",
+                "zneg":"StrippedLogBirch",
+                "zpos":"StrippedLogBirch",
+                "xneg":"StrippedLogBirch",
+                "xpos":"StrippedLogBirch"
+            }
+        },
+		
+        {
+            "name": "Stripped Chestnut Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogChestnutTop",
+                "ypos":"StrippedLogChestnutTop",
+                "zneg":"StrippedLogChestnut",
+                "zpos":"StrippedLogChestnut",
+                "xneg":"StrippedLogChestnut",
+                "xpos":"StrippedLogChestnut"
+            }
+        },
+		
+        {
+            "name": "Stripped Douglas Fir Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogDouglasFirTop",
+                "ypos":"StrippedLogDouglasFirTop",
+                "zneg":"StrippedLogDouglasFir",
+                "zpos":"StrippedLogDouglasFir",
+                "xneg":"StrippedLogDouglasFir",
+                "xpos":"StrippedLogDouglasFir"
+            }
+        },
+		
+        {
+            "name": "Stripped Hickory Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogHickoryTop",
+                "ypos":"StrippedLogHickoryTop",
+                "zneg":"StrippedLogHickory",
+                "zpos":"StrippedLogHickory",
+                "xneg":"StrippedLogHickory",
+                "xpos":"StrippedLogHickory"
+            }
+        },
+		
+        {
+            "name": "Stripped Maple Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogMapleTop",
+                "ypos":"StrippedLogMapleTop",
+                "zneg":"StrippedLogMaple",
+                "zpos":"StrippedLogMaple",
+                "xneg":"StrippedLogMaple",
+                "xpos":"StrippedLogMaple"
+            }
+        },
+		
+        {
+            "name": "Stripped Ash Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogAshTop",
+                "ypos":"StrippedLogAshTop",
+                "zneg":"StrippedLogAsh",
+                "zpos":"StrippedLogAsh",
+                "xneg":"StrippedLogAsh",
+                "xpos":"StrippedLogAsh"
+            }
+        },
+		
+        {
+            "name": "Stripped Pine Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogPineTop",
+                "ypos":"StrippedLogPineTop",
+                "zneg":"StrippedLogPine",
+                "zpos":"StrippedLogPine",
+                "xneg":"StrippedLogPine",
+                "xpos":"StrippedLogPine"
+            }
+        },
+		
+        {
+            "name": "Stripped Sequoia Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogSequoiaTop",
+                "ypos":"StrippedLogSequoiaTop",
+                "zneg":"StrippedLogSequoia",
+                "zpos":"StrippedLogSequoia",
+                "xneg":"StrippedLogSequoia",
+                "xpos":"StrippedLogSequoia"
+            }
+        },
+		
+        {
+            "name": "Stripped Spruce Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogSpruceTop",
+                "ypos":"StrippedLogSpruceTop",
+                "zneg":"StrippedLogSpruce",
+                "zpos":"StrippedLogSpruce",
+                "xneg":"StrippedLogSpruce",
+                "xpos":"StrippedLogSpruce"
+            }
+        },
+		
+        {
+            "name": "Stripped Sycamore Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogSycamoreTop",
+                "ypos":"StrippedLogSycamoreTop",
+                "zneg":"StrippedLogSycamore",
+                "zpos":"StrippedLogSycamore",
+                "xneg":"StrippedLogSycamore",
+                "xpos":"StrippedLogSycamore"
+            }
+        },
+		
+        {
+            "name": "Stripped White Cedar Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogWhiteCedarTop",
+                "ypos":"StrippedLogWhiteCedarTop",
+                "zneg":"StrippedLogWhiteCedar",
+                "zpos":"StrippedLogWhiteCedar",
+                "xneg":"StrippedLogWhiteCedar",
+                "xpos":"StrippedLogWhiteCedar"
+            }
+        },
+		
+        {
+            "name": "Stripped White Elm Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogWhiteElmTop",
+                "ypos":"StrippedLogWhiteElmTop",
+                "zneg":"StrippedLogWhiteElm",
+                "zpos":"StrippedLogWhiteElm",
+                "xneg":"StrippedLogWhiteElm",
+                "xpos":"StrippedLogWhiteElm"
+            }
+        },
+		
+        {
+            "name": "Stripped Willow Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogWillowTop",
+                "ypos":"StrippedLogWillowTop",
+                "zneg":"StrippedLogWillow",
+                "zpos":"StrippedLogWillow",
+                "xneg":"StrippedLogWillow",
+                "xpos":"StrippedLogWillow"
+            }
+        },
+		
+        {
+            "name": "Stripped Kapok Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogKapokTop",
+                "ypos":"StrippedLogKapokTop",
+                "zneg":"StrippedLogKapok",
+                "zpos":"StrippedLogKapok",
+                "xneg":"StrippedLogKapok",
+                "xpos":"StrippedLogKapok"
+            }
+        },
+		
+        {
+            "name": "Stripped Acacia Log",              
+            "material": "wood",              
+            "hardness": 2,
+		"creativeTab":"Log Expansion",
+			"flammability": "5",
+			"fireEncouragement": "5",
+	    "type": "Log", 
+	    "maxStackSize":16,     
+            "resistance": 15,
+            "harvestLevel": 0,
+	    "toolClass":"axe",              
+            "multipleTextures":{
+                "yneg":"StrippedLogAcaciaTop",
+                "ypos":"StrippedLogAcaciaTop",
+                "zneg":"StrippedLogAcacia",
+                "zpos":"StrippedLogAcacia",
+                "xneg":"StrippedLogAcacia",
+                "xpos":"StrippedLogAcacia"
+            }
+        }
+    ]
+}

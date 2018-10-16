@@ -1,0 +1,604 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Tile Stairs",                            
+			"type":"stairs"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "AndesiteTile",
+	    "toolClass":"pickaxe"            
+
+        },		
+        {
+            "name": "Andesite Tile Slab",                            
+			"type":"slab"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "AndesiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Tile Stairs",                               
+			"type":"stairs";            
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Tile Slab",                              
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChalkTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChalkTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChertTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ChertTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Tile Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ClaystoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Tile Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ClaystoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Tile Stairs",                                
+			"type":"stairs";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "ConglomerateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Tile Slab",                                
+			"type":"slab";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "ConglomerateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Tile Stairs",                                    
+			"type":"stairs";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DaciteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Tile Slab",                                    
+			"type":"slab";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DaciteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Tile Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DioriteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Tile Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DioriteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DolomiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DolomiteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Tile Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GabbroTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Tile Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GabbroTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Tile Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GneissTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Tile Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GneissTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GraniteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "GraniteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Tile Stairs",                                       
+			"type":"stairs";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "LimestoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Tile Slab",                                       
+			"type":"slab";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "LimestoneTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "MarbleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "MarbleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Tile Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "PhylliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Tile Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "PhylliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Tile Stairs",                                
+			"type":"stairs";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "QuartziteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Tile Slab",                                
+			"type":"slab";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "QuartziteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Tile Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "RhyoliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Tile Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "RhyoliteTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SaltTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Tile Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SchistTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Tile Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SchistTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Tile Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ShaleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Tile Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "ShaleTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Tile Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SlateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Tile Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SlateTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Jet Tile Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "JetTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Jet Tile Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "JetTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Serpentine Tile Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SerpentineTile",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Serpentine Tile Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Therighthon's Tile Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SerpentineTile",
+	    "toolClass":"pickaxe"            
+
+        }
+    ]
+}

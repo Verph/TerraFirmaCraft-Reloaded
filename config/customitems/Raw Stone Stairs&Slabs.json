@@ -1,0 +1,552 @@
+
+{
+    "blocks":
+    [
+        {
+            "name": "Andesite Raw Stone Stairs",                            
+			"type":"stairs"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Raw",
+	    "toolClass":"pickaxe"            
+
+        },		
+        {
+            "name": "Andesite Raw Stone Slab",                            
+			"type":"slab"; 
+            "material": "rock", 
+	    "maxStackSize":32,                   
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Andesite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Raw Stone Stairs",                               
+			"type":"stairs";            
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basalt Raw Stone Slab",                              
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Basalt Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Raw Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chalk Raw Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",  
+	    "maxStackSize":32,                  
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chalk Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Raw Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Chert Raw Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Chert Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Raw Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Claystone Raw Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Claystone Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Raw Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Conglomerate Raw Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",              
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0, 
+	    "maxStackSize":32,     
+	    "textureName": "Conglomerate Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Raw Stone Stairs",                                    
+			"type":"stairs";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dacite Raw Stone Slab",                                    
+			"type":"slab";          
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dacite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Raw Stone Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Diorite Raw Stone Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Diorite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Raw Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Dolomite Raw Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Dolomite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Raw Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gabbro Raw Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gabbro Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Raw Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Gneiss Raw Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Gneiss Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Raw Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Granite Raw Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Granite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Raw Stone Stairs",                                       
+			"type":"stairs";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Limestone Raw Stone Slab",                                       
+			"type":"slab";       
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Limestone Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Raw Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Marble Raw Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Marble Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Raw Stone Stairs",                               
+			"type":"stairs";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Phyllite Raw Stone Slab",                               
+			"type":"slab";               
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Phyllite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Raw Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Quartzite Raw Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Quartzite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Raw Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rhyolite Raw Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rhyolite Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Raw Stone Stairs",                                 
+			"type":"stairs";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Rock Salt Raw Stone Slab",                                 
+			"type":"slab";             
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Rock Salt Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Raw Stone Stairs",                                  
+			"type":"stairs";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Schist Raw Stone Slab",                                  
+			"type":"slab";            
+            "material": "rock",     
+	    "maxStackSize":32,               
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Schist Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Raw Stone Stairs",                                
+			"type":"stairs";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Shale Raw Stone Slab",                                
+			"type":"slab";              
+            "material": "rock",   
+	    "maxStackSize":32,                 
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Shale Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Raw Stone Stairs",                                   
+			"type":"stairs";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Raw",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Slate Raw Stone Slab",                                   
+			"type":"slab";           
+            "material": "rock",    
+	    "maxStackSize":32,                
+            "hardness": 6,
+		"creativeTab":"Raw Stone Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "Slate Raw",
+	    "toolClass":"pickaxe"            
+
+        }
+    ]
+}

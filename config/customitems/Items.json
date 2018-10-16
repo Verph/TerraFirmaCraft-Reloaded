@@ -1,0 +1,103 @@
+{
+    "items":
+    [
+        {
+            "name":"Jet Brick",
+            "textureName":"JetBrick",
+            "creativeTab":"Therighthon's TFC addon"
+        },
+        {
+            "name":"Serpentine Brick",
+            "textureName":"SerpentineBrick",
+            "creativeTab":"Therighthon's TFC addon"
+        },
+        {
+            "name":"Wood Bark",
+            "textureName":"Bark2",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Bark Fibre",
+            "textureName":"BarkFibre",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Bark Rope",
+            "textureName":"BarkRope",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Ulexite Mineral",
+            "textureName":"Ulexite",
+            "creativeTab":"Miscellaneous Things"
+        },
+        {
+            "name":"Spodumene Chunk",
+            "textureName":"Spodumene",
+            "creativeTab":"Miscellaneous Things"
+        },
+        {
+            "name":"Cherry Lumber",
+            "textureName":"CherryPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Ebony Lumber",
+            "textureName":"EbonyPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Eucalyptus Lumber",
+            "textureName":"EucalyptusPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Jacaranda Lumber",
+            "textureName":"JacarandaPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Mahogany Lumber",
+            "textureName":"MahoganyPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Redwood Lumber",
+            "textureName":"RedwoodPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Juniper Lumber",
+            "textureName":"JuniperPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Rowan Lumber",
+            "textureName":"RowanPlank",
+            "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Hagberry Lumber",
+            "textureName":"HagberryPlank",
+            "creativeTab":"Log Expansion"
+        }
+	],
+    "hoes": [
+        {
+            "name": "Silver Wand",
+            "textureName": "wandsilver",
+            "maxUses": -1,
+            "efficiencyOnProperMaterial": 1,
+            "enchantability": 0,
+            "creativeTab":"Miscellaneous Things"
+        },
+        {
+            "name": "Golden Wand",
+            "textureName": "wandgolden",
+            "maxUses": -1,
+            "efficiencyOnProperMaterial": 1,
+            "enchantability": 0,
+            "creativeTab":"Miscellaneous Things"
+        }
+    ]
+}

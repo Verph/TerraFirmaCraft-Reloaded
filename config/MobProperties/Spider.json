@@ -1,0 +1,22 @@
+{
+  "_name": "Spider",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the spider's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 10~50,
+    "override": true
+    },
+    {
+    "_comment": "increase the spider's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 1800,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

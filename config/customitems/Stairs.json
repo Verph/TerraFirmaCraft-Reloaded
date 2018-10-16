@@ -1,0 +1,267 @@
+
+{
+    "blocks":
+    [
+		{
+            "name": "Brick Combination Stack Bottom Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickCombinationStackBottom",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Combination Stack Top Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickCombinationStackTop",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Stacked Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickStackedBond",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Soldier Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickSoldier",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Double Brick Basket Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DoubleBrickBasket",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Double Brick Basket Stairs 90 Degrees",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "DoubleBrickBasket90",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Herring Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickHerring",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Bond Dark Left Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickBondDarkLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Brick Bond Dark Right Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BrickBondDarkRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basketweave Brick Bottom Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasketweaveBrickBottom",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Basketweave Brick Top Stairs",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "BasketweaveBricktop",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Stairs Left",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Stairs Center",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Bottom Stairs Right",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondBottomRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Center Stairs Left",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenterLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Stairs Center",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Stairs Center Right",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondCenterRight",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Stairs Top Left",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopLeft",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Stairs Top Center",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopCenter",
+	    "toolClass":"pickaxe"            
+
+        },
+        {
+            "name": "Spanish Bond Stairs Top Right",              
+			"type":"stairs"; 
+            "material": "rock",    
+	    "maxStackSize":16,                
+            "hardness": 5,
+		"creativeTab":"Brick Expansion",
+            "resistance": 40,
+            "harvestLevel": 0,
+	    "textureName": "SpanishBondTopRight",
+	    "toolClass":"pickaxe"            
+
+        }
+       
+    ]
+}

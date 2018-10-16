@@ -1,0 +1,517 @@
+
+{
+    "blocks":
+    [
+		{
+            "name": "Oak Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Oak Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Oak Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Oak Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Aspen Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Aspen Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Aspen Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Aspen Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Birch Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Birch Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Birch Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Birch Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Chestnut Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Chestnut Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Chestnut Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Chestnut Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Douglas Fir Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Douglas Fir Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Douglas Fir Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Douglas Fir Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Hickory Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Hickory Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Hickory Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Hickory Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Maple Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Maple Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Maple Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Maple Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Ash Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Ash Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Ash Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Ash Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Pine Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Pine Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Pine Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Pine Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Sequoia Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Sequoia Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Sequoia Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Sequoia Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Spruce Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Spruce Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Spruce Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Spruce Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Sycamore Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Sycamore Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Sycamore Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Sycamore Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "White Cedar Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "White Cedar Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "White Cedar Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "White Cedar Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "White Elm Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "White Elm Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "White Elm Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "White Elm Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Willow Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Willow Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Willow Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Willow Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Kapok Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Kapok Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Kapok Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Kapok Plank",
+	    "toolClass":"axe"            
+
+        },
+		{
+            "name": "Acacia Plank Stairs",              
+			"type":"stairs"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Acacia Plank",
+	    "toolClass":"axe"            
+
+        },
+        {
+            "name": "Acacia Plank Slab",              
+			"type":"slab"; 
+            "material": "wood",    
+	    "maxStackSize":32,                
+            "hardness": 2,
+		"creativeTab":"Plank Expansion",
+			"flammability": "20",
+			"fireEncouragement": "5",
+            "resistance": 10,
+            "harvestLevel": 0,
+	    "textureName": "Acacia Plank",
+	    "toolClass":"axe"            
+
+        }
+       
+    ]
+}

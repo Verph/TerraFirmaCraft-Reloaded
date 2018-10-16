@@ -1,0 +1,16 @@
+{
+  "_name": "cookingwithtfc:naturalLog",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 50.0,
+    "resistance": 250.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

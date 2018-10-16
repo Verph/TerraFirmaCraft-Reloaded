@@ -1,0 +1,55 @@
+{
+    "changeItems":
+		[
+		
+		{
+			"name": "minecraft:potion:8193",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:8225",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:8257",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:16385",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:16417",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:16449",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:8261",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:8229",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:16453",
+            "potionAmplifier": "20"
+        },
+		
+		{
+			"name": "minecraft:potion:16421",
+            "potionAmplifier": "20"
+        }
+    ]
+}
