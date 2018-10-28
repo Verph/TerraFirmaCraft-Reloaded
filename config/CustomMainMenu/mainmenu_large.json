@@ -271,8 +271,8 @@
     {
         "splash-text":
         {
-            "posX" : 90,
-            "posY" : -55,
+            "posX" : 250,
+            "posY" : -140,
             "color" : -256,
             "alignment" : "left_center",
             "texts" : "file:mainmenu:texts/splashes.txt"

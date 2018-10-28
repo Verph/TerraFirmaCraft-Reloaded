@@ -53,7 +53,7 @@ move.speed.user:false;c:true
 move.speed.user.factor:0.2
 
 # The exponent for in-game speed manipulation
-move.speed.user.exponent:1
+move.speed.user.exponent:0
 
 
 
@@ -281,7 +281,7 @@ move.sprint.exhaustion:true;e:false
 
 
 # Maximum exhaustion to start a sprint (>= 0)
-move.exhaustion.sprint.start:75
+move.exhaustion.sprint.start:50
 
 # Maximum exhaustion to continue a sprint (>= "move.exhaustion.sprint.start")
 move.exhaustion.sprint.stop:100
@@ -1055,24 +1055,24 @@ move.config.key.name:e:Easy;h:Hard;m:Medium
 # =====================================================================
 
 # Whether the players on this server should be forced to use the configurations on this server
-move.server.config:true
+move.server.config:false
 
 
 # The option configuration to start the player's next minecraft survival game with (can also be modified via in-game option configuration toggling)
 move.server.config.survival.user.keys:
 
 # The option configuration to start the player's next minecraft creative game with (can also be modified via in-game option configuration toggling)
-move.server.config.creative.user.keys:
+move.server.config.creative.user.keys:Verph,c
 
 # The option configuration to start the player's next minecraft adventure game with (can also be modified via in-game option configuration toggling)
 move.server.config.adventure.user.keys:
 
 # The user specific exponents for in-game speed manipulation
-move.server.speed.user.exponents:
+move.server.speed.user.exponents:Verph,0
 
 
 # Whether all players on this server should be forced to use the same global configuration (Relevant only if "move.server.config" is true)
-move.global.config:true
+move.global.config:false
 
 
 # The names of the users that have the right to change the global configuraton in-game, entries seperated by ','

@@ -13,6 +13,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+	recipes.remove(<tfcprimitivetech:itemWoodenPress>);
 	recipes.remove(<minecraft:fermented_spider_eye>);
 	recipes.remove(<minecraft:speckled_melon>);
 	recipes.remove(<harvestcraft:chaiteaItem>);
@@ -343,6 +344,46 @@
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+	
+	recipes.addShapeless(<customitems:rye_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float})]);
+	recipes.addShapeless(<customitems:maize_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float})]);
+	recipes.addShapeless(<customitems:oat_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Oat Whole>.withTag({foodWeight: 2.0 as float})]);
+	recipes.addShapeless(<customitems:barley_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Barley Whole>.withTag({foodWeight: 2.0 as float})]);
+	recipes.addShapeless(<customitems:wheat_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Wheat Whole>.withTag({foodWeight: 2.0 as float})]);
+	recipes.addShapeless(<customitems:rice_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rice Whole>.withTag({foodWeight: 2.0 as float})]);
+
+	recipes.addShapeless(<customitems:coarse_granite_dirt>, [<terrafirmacraft:Dirt>, <terrafirmacraft:Gravel>, <terrafirmacraft:Gravel>, <terrafirmacraft:Dirt>]);
+	recipes.addShapeless(<customitems:coarse_diorite_dirt>, [<terrafirmacraft:Dirt:1>, <terrafirmacraft:Gravel:1>, <terrafirmacraft:Gravel:1>, <terrafirmacraft:Dirt:1>]);
+	recipes.addShapeless(<customitems:coarse_gabbro_dirt>, [<terrafirmacraft:Dirt:2>, <terrafirmacraft:Gravel:2>, <terrafirmacraft:Gravel:2>, <terrafirmacraft:Dirt:2>]);
+	recipes.addShapeless(<customitems:coarse_rhyolite_dirt>, [<terrafirmacraft:Dirt:3>, <terrafirmacraft:Gravel:3>, <terrafirmacraft:Gravel:3>, <terrafirmacraft:Dirt:3>]);
+	recipes.addShapeless(<customitems:coarse_basalt_dirt>, [<terrafirmacraft:Dirt:4>, <terrafirmacraft:Gravel:4>, <terrafirmacraft:Gravel:4>, <terrafirmacraft:Dirt:4>]);
+	recipes.addShapeless(<customitems:coarse_andesite_dirt>, [<terrafirmacraft:Dirt:5>, <terrafirmacraft:Gravel:5>, <terrafirmacraft:Gravel:5>, <terrafirmacraft:Dirt:5>]);
+	recipes.addShapeless(<customitems:coarse_dacite_dirt>, [<terrafirmacraft:Dirt:6>, <terrafirmacraft:Gravel:6>, <terrafirmacraft:Gravel:6>, <terrafirmacraft:Dirt:6>]);
+	recipes.addShapeless(<customitems:coarse_shale_dirt>, [<terrafirmacraft:Dirt:7>, <terrafirmacraft:Gravel:7>, <terrafirmacraft:Gravel:7>, <terrafirmacraft:Dirt:7>]);
+	recipes.addShapeless(<customitems:coarse_claystone_dirt>, [<terrafirmacraft:Dirt:8>, <terrafirmacraft:Gravel:8>, <terrafirmacraft:Gravel:8>, <terrafirmacraft:Dirt:8>]);
+	recipes.addShapeless(<customitems:coarse_rock_salt_dirt>, [<terrafirmacraft:Dirt:9>, <terrafirmacraft:Gravel:9>, <terrafirmacraft:Gravel:9>, <terrafirmacraft:Dirt:9>]);
+	recipes.addShapeless(<customitems:coarse_limestone_dirt>, [<terrafirmacraft:Dirt:10>, <terrafirmacraft:Gravel:10>, <terrafirmacraft:Gravel:10>, <terrafirmacraft:Dirt:10>]);
+	recipes.addShapeless(<customitems:coarse_conglomerate_dirt>, [<terrafirmacraft:Dirt:11>, <terrafirmacraft:Gravel:11>, <terrafirmacraft:Gravel:11>, <terrafirmacraft:Dirt:11>]);
+	recipes.addShapeless(<customitems:coarse_dolomite_dirt>, [<terrafirmacraft:Dirt:12>, <terrafirmacraft:Gravel:12>, <terrafirmacraft:Gravel:12>, <terrafirmacraft:Dirt:12>]);
+	recipes.addShapeless(<customitems:coarse_chert_dirt>, [<terrafirmacraft:Dirt:13>, <terrafirmacraft:Gravel:13>, <terrafirmacraft:Gravel:13>, <terrafirmacraft:Dirt:13>]);
+	recipes.addShapeless(<customitems:coarse_chalk_dirt>, [<terrafirmacraft:Dirt:14>, <terrafirmacraft:Gravel:14>, <terrafirmacraft:Gravel:14>, <terrafirmacraft:Dirt:14>]);
+	recipes.addShapeless(<customitems:coarse_quartzite_dirt>, [<terrafirmacraft:Dirt:15>, <terrafirmacraft:Gravel:15>, <terrafirmacraft:Gravel:15>, <terrafirmacraft:Dirt:15>]);
+	recipes.addShapeless(<customitems:coarse_slate_dirt>, [<terrafirmacraft:Dirt2>, <terrafirmacraft:Gravel2>, <terrafirmacraft:Gravel2>, <terrafirmacraft:Dirt2>]);
+	recipes.addShapeless(<customitems:coarse_phyllite_dirt>, [<terrafirmacraft:Dirt2:1>, <terrafirmacraft:Gravel2:1>, <terrafirmacraft:Gravel2:1>, <terrafirmacraft:Dirt2:1>]);
+	recipes.addShapeless(<customitems:coarse_schist_dirt>, [<terrafirmacraft:Dirt2:2>, <terrafirmacraft:Gravel2:2>, <terrafirmacraft:Gravel2:2>, <terrafirmacraft:Dirt2:2>]);
+	recipes.addShapeless(<customitems:coarse_gneiss_dirt>, [<terrafirmacraft:Dirt2:3>, <terrafirmacraft:Gravel2:3>, <terrafirmacraft:Gravel2:3>, <terrafirmacraft:Dirt2:3>]);
+	recipes.addShapeless(<customitems:coarse_marble_dirt>, [<terrafirmacraft:Dirt2:4>, <terrafirmacraft:Gravel2:4>, <terrafirmacraft:Gravel2:4>, <terrafirmacraft:Dirt2:4>]);
+
+	recipes.addShapeless(<tfcm:item.Arrow_BlueSteel>, [<ore:stickWood>, <tfcm:item.Arrow_BlueSteel_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_RedSteel>, [<ore:stickWood>, <tfcm:item.Arrow_RedSteel_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_BlackSteel>, [<ore:stickWood>, <tfcm:item.Arrow_BlackSteel_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_Steel>, [<ore:stickWood>, <tfcm:item.Arrow_Steel_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_WroughtIron>, [<ore:stickWood>, <tfcm:item.Arrow_WroughtIron_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_BlackBronze>, [<ore:stickWood>, <tfcm:item.Arrow_BlackBronze_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_Bronze>, [<ore:stickWood>, <tfcm:item.Arrow_Bronze_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_BismuthBronze>, [<ore:stickWood>, <tfcm:item.Arrow_BismuthBronze_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<tfcm:item.Arrow_Copper>, [<ore:stickWood>, <tfcm:item.Arrow_Copper_Head>, <TConstruct:fletching:*>]);
+	recipes.addShapeless(<terrafirmacraft:item.arrow>, [<ore:stickWood>, <minecraft:flint>, <TConstruct:fletching:*>]);
 
 	recipes.addShapeless(<minecraft:carrot> * 8, [<terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 4.0 as float}), <terrafirmacraft:item.Carrot>.withTag({foodWeight: 4.0 as float}), <terrafirmacraft:item.Straw>, <terrafirmacraft:item.Straw>]);
 	recipes.addShapeless(<harvestcraft:chaiteaItem>, [<psychedelicraft:stone_cup>, <tfcm:item.BucketHotWater>.giveBack(<terrafirmacraft:item.Wooden Bucket Empty>), <ore:cropTea>, <ore:cropTea>, <TerraFirmaPumpkins:item.Cooked Pumpkin>.withTag({foodWeight: 1.0 as float}), <TerraFirmaPumpkins:item.Melon>.withTag({foodWeight: 1.0 as float})]);
@@ -534,6 +575,22 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
+	
+	recipes.addShaped(<tfcprimitivetech:itemWoodenPress>, [[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+
+	recipes.addShaped(<DecorationsTFC:Lantern.Copper>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Copper>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.Bronze>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Bronze>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.BismuthBronze>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.BismuthBronze>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.BlackBronze>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.BlackBronze>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.Brass>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Brass>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.Lead>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Lead>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.Gold>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Gold>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.RoseGold>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.RoseGold>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.Silver>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Silver>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.SterlingSilver>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.SterlingSilver>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.Platinum>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Platinum>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+	recipes.addShaped(<DecorationsTFC:Lantern.WroughtIron>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.WroughtIron>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
+
 	recipes.addShaped(<minecraft:speckled_melon>, [[<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>], [<ore:nuggetGold>, <cookingwithtfc:item.SlicedWatermelon>.withTag({foodWeight: 1.0 as float}), <ore:nuggetGold>], [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]]);
 	recipes.addShaped(<minecraft:brewing_stand>, [[null, <tfcudarymod:item.Copper Rod:*>, null], [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]]);
 	recipes.addShaped(<exoticbirds:phoenix_egg>, [[<exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>], [<exoticbirds:phoenix_dust>, <terrafirmacraft:item.egg:*>, <exoticbirds:phoenix_dust>], [<exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>]]);
@@ -956,7 +1013,8 @@
 //#MARKER ADD MODDED
 
 	mods.Terrafirmacraft.Barrel.addItemFluidConversion(<minecraft:fermented_spider_eye>, <liquid:vinegar> * 250, <minecraft:spider_eye>, <liquid:vinegar> * 250, 0, true, 4, true, true);
-	
+
+	mods.Terrafirmacraft.Quern.addRecipe(<minecraft:glowstone_dust> * 4, <customitems:glowstone_shard>);	
 	mods.Terrafirmacraft.Quern.addRecipe(<minecraft:dye:3> * 3, <terrafirmacraft:item.dyePowder:3>);
 	mods.Terrafirmacraft.Quern.addRecipe(<terrafirmacraft:item.dyePowder:3> * 2, <cookingwithtfc:item.Macadamia Nut>.withTag({foodWeight: 1.0 as float}));
 	mods.Terrafirmacraft.Quern.addRecipe(<minecraft:blaze_powder> * 3, <minecraft:blaze_rod>);

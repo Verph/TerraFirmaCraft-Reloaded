@@ -1,0 +1,16 @@
+{
+  "_name": "gasesFramework:lantern_gas_4",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 0.25,
+    "resistance": 1.25,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

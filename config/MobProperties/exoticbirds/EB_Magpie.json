@@ -1,6 +1,12 @@
 {
   "_name": "exoticbirds.EB_Magpie",
-  "drops": [],
+  "drops": [
+            {
+              "function": "add",
+              "id": "feather",
+              "count": "1~7"
+        }
+	],
   "pre_stats": [],
   "stats": [
     {

@@ -144,6 +144,96 @@
 	recipes.addShaped(<customitems:rowan_fence>, [[<customitems:rowan_lumber>, null, <customitems:rowan_lumber>], [<customitems:rowan_lumber>, <ore:stickWood>, <customitems:rowan_lumber>], [<customitems:rowan_lumber>, <ore:stickWood>, <customitems:rowan_lumber>]]);
 	recipes.addShaped(<customitems:hagberry_fence>, [[<customitems:hagberry_lumber>, null, <customitems:hagberry_lumber>], [<customitems:hagberry_lumber>, <ore:stickWood>, <customitems:hagberry_lumber>], [<customitems:hagberry_lumber>, <ore:stickWood>, <customitems:hagberry_lumber>]]);
 
+//Log Fences	
+
+	recipes.addShaped(<customitems:oak_log_fence>, [[<terrafirmacraft:item.Log:0>, null, <terrafirmacraft:item.Log:0>], [<terrafirmacraft:item.Log:0>, <ore:stickWood>, <terrafirmacraft:item.Log:0>], [<terrafirmacraft:item.Log:0>, <ore:stickWood>, <terrafirmacraft:item.Log:0>]]);
+	recipes.addShaped(<customitems:aspen_log_fence>, [[<terrafirmacraft:item.Log:1>, null, <terrafirmacraft:item.Log:1>], [<terrafirmacraft:item.Log:1>, <ore:stickWood>, <terrafirmacraft:item.Log:1>], [<terrafirmacraft:item.Log:1>, <ore:stickWood>, <terrafirmacraft:item.Log:1>]]);
+	recipes.addShaped(<customitems:birch_log_fence>, [[<terrafirmacraft:item.Log:2>, null, <terrafirmacraft:item.Log:2>], [<terrafirmacraft:item.Log:2>, <ore:stickWood>, <terrafirmacraft:item.Log:2>], [<terrafirmacraft:item.Log:2>, <ore:stickWood>, <terrafirmacraft:item.Log:2>]]);
+	recipes.addShaped(<customitems:chestnut_log_fence>, [[<terrafirmacraft:item.Log:3>, null, <terrafirmacraft:item.Log:3>], [<terrafirmacraft:item.Log:3>, <ore:stickWood>, <terrafirmacraft:item.Log:3>], [<terrafirmacraft:item.Log:3>, <ore:stickWood>, <terrafirmacraft:item.Log:3>]]);
+	recipes.addShaped(<customitems:douglas_fir_log_fence>, [[<terrafirmacraft:item.Log:4>, null, <terrafirmacraft:item.Log:4>], [<terrafirmacraft:item.Log:4>, <ore:stickWood>, <terrafirmacraft:item.Log:4>], [<terrafirmacraft:item.Log:4>, <ore:stickWood>, <terrafirmacraft:item.Log:4>]]);
+	recipes.addShaped(<customitems:hickory_log_fence>, [[<terrafirmacraft:item.Log:5>, null, <terrafirmacraft:item.Log:5>], [<terrafirmacraft:item.Log:5>, <ore:stickWood>, <terrafirmacraft:item.Log:5>], [<terrafirmacraft:item.Log:5>, <ore:stickWood>, <terrafirmacraft:item.Log:5>]]);
+	recipes.addShaped(<customitems:maple_log_fence>, [[<terrafirmacraft:item.Log:6>, null, <terrafirmacraft:item.Log:6>], [<terrafirmacraft:item.Log:6>, <ore:stickWood>, <terrafirmacraft:item.Log:6>], [<terrafirmacraft:item.Log:6>, <ore:stickWood>, <terrafirmacraft:item.Log:6>]]);
+	recipes.addShaped(<customitems:ash_log_fence>, [[<terrafirmacraft:item.Log:7>, null, <terrafirmacraft:item.Log:7>], [<terrafirmacraft:item.Log:7>, <ore:stickWood>, <terrafirmacraft:item.Log:7>], [<terrafirmacraft:item.Log:7>, <ore:stickWood>, <terrafirmacraft:item.Log:7>]]);
+	recipes.addShaped(<customitems:pine_log_fence>, [[<terrafirmacraft:item.Log:8>, null, <terrafirmacraft:item.Log:8>], [<terrafirmacraft:item.Log:8>, <ore:stickWood>, <terrafirmacraft:item.Log:8>], [<terrafirmacraft:item.Log:8>, <ore:stickWood>, <terrafirmacraft:item.Log:8>]]);
+	recipes.addShaped(<customitems:sequoia_log_fence>, [[<terrafirmacraft:item.Log:9>, null, <terrafirmacraft:item.Log:9>], [<terrafirmacraft:item.Log:9>, <ore:stickWood>, <terrafirmacraft:item.Log:9>], [<terrafirmacraft:item.Log:9>, <ore:stickWood>, <terrafirmacraft:item.Log:9>]]);
+	recipes.addShaped(<customitems:spruce_log_fence>, [[<terrafirmacraft:item.Log:10>, null, <terrafirmacraft:item.Log:10>], [<terrafirmacraft:item.Log:10>, <ore:stickWood>, <terrafirmacraft:item.Log:10>], [<terrafirmacraft:item.Log:10>, <ore:stickWood>, <terrafirmacraft:item.Log:10>]]);
+	recipes.addShaped(<customitems:sycamore_log_fence>, [[<terrafirmacraft:item.Log:11>, null, <terrafirmacraft:item.Log:11>], [<terrafirmacraft:item.Log:11>, <ore:stickWood>, <terrafirmacraft:item.Log:11>], [<terrafirmacraft:item.Log:11>, <ore:stickWood>, <terrafirmacraft:item.Log:11>]]);
+	recipes.addShaped(<customitems:white_cedar_log_fence>, [[<terrafirmacraft:item.Log:12>, null, <terrafirmacraft:item.Log:12>], [<terrafirmacraft:item.Log:12>, <ore:stickWood>, <terrafirmacraft:item.Log:12>], [<terrafirmacraft:item.Log:12>, <ore:stickWood>, <terrafirmacraft:item.Log:12>]]);
+	recipes.addShaped(<customitems:white_elm_log_fence>, [[<terrafirmacraft:item.Log:13>, null, <terrafirmacraft:item.Log:13>], [<terrafirmacraft:item.Log:13>, <ore:stickWood>, <terrafirmacraft:item.Log:13>], [<terrafirmacraft:item.Log:13>, <ore:stickWood>, <terrafirmacraft:item.Log:13>]]);
+	recipes.addShaped(<customitems:willow_log_fence>, [[<terrafirmacraft:item.Log:14>, null, <terrafirmacraft:item.Log:14>], [<terrafirmacraft:item.Log:14>, <ore:stickWood>, <terrafirmacraft:item.Log:14>], [<terrafirmacraft:item.Log:14>, <ore:stickWood>, <terrafirmacraft:item.Log:14>]]);
+	recipes.addShaped(<customitems:kapok_log_fence>, [[<terrafirmacraft:item.Log:15>, null, <terrafirmacraft:item.Log:15>], [<terrafirmacraft:item.Log:15>, <ore:stickWood>, <terrafirmacraft:item.Log:15>], [<terrafirmacraft:item.Log:15>, <ore:stickWood>, <terrafirmacraft:item.Log:15>]]);
+	recipes.addShaped(<customitems:acacia_log_fence>, [[<terrafirmacraft:item.Log:16>, null, <terrafirmacraft:item.Log:16>], [<terrafirmacraft:item.Log:16>, <ore:stickWood>, <terrafirmacraft:item.Log:16>], [<terrafirmacraft:item.Log:16>, <ore:stickWood>, <terrafirmacraft:item.Log:16>]]);
+
+	recipes.addShaped(<customitems:juniper_log_fence>, [[<psychedelicraft:psycheLog>, null, <psychedelicraft:psycheLog>], [<psychedelicraft:psycheLog>, <ore:stickWood>, <psychedelicraft:psycheLog>], [<psychedelicraft:psycheLog>, <ore:stickWood>, <psychedelicraft:psycheLog>]]);
+	recipes.addShaped(<customitems:ebony_log_fence>, [[<customitems:ebony_log>, null, <customitems:ebony_log>], [<customitems:ebony_log>, <ore:stickWood>, <customitems:ebony_log>], [<customitems:ebony_log>, <ore:stickWood>, <customitems:ebony_log>]]);
+	recipes.addShaped(<customitems:mahogany_log_fence>, [[<customitems:mahogany_log>, null, <customitems:mahogany_log>], [<customitems:mahogany_log>, <ore:stickWood>, <customitems:mahogany_log>], [<customitems:mahogany_log>, <ore:stickWood>, <customitems:mahogany_log>]]);
+	recipes.addShaped(<customitems:redwood_log_fence>, [[<customitems:redwood_log>, null, <customitems:redwood_log>], [<customitems:redwood_log>, <ore:stickWood>, <customitems:redwood_log>], [<customitems:redwood_log>, <ore:stickWood>, <customitems:redwood_log>]]);
+	recipes.addShaped(<customitems:eucalyptus_log_fence>, [[<customitems:eucalyptus_log>, null, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <ore:stickWood>, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <ore:stickWood>, <customitems:eucalyptus_log>]]);
+	recipes.addShaped(<customitems:cherry_log_fence>, [[<customitems:cherry_log>, null, <customitems:cherry_log>], [<customitems:cherry_log>, <ore:stickWood>, <customitems:cherry_log>], [<customitems:cherry_log>, <ore:stickWood>, <customitems:cherry_log>]]);
+	recipes.addShaped(<customitems:jacaranda_log_fence>, [[<customitems:jacaranda_log>, null, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <ore:stickWood>, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <ore:stickWood>, <customitems:jacaranda_log>]]);
+	//recipes.addShaped(<customitems:rowan_log_fence>, [[<dendrology:logs0:2>, null, <dendrology:logs0:2>], [<dendrology:logs0:2>, <ore:stickWood>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <ore:stickWood>, <dendrology:logs0:2>]]);
+	//recipes.addShaped(<customitems:hagberry_log_fence>, [[<dendrology:logs1:3>, null, <dendrology:logs1:3>], [<dendrology:logs1:3>, <ore:stickWood>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <ore:stickWood>, <dendrology:logs1:3>]]);
+
+//Log Walls	
+
+	recipes.addShaped(<customitems:oak_log_wall>, [[<terrafirmacraft:item.Log:0>, <terrafirmacraft:item.Log:0>, <terrafirmacraft:item.Log:0>], [<terrafirmacraft:item.Log:0>, <terrafirmacraft:item.Log:0>, <terrafirmacraft:item.Log:0>]]);
+	recipes.addShaped(<customitems:aspen_log_wall>, [[<terrafirmacraft:item.Log:1>, <terrafirmacraft:item.Log:1>, <terrafirmacraft:item.Log:1>], [<terrafirmacraft:item.Log:1>, <terrafirmacraft:item.Log:1>, <terrafirmacraft:item.Log:1>]]);
+	recipes.addShaped(<customitems:birch_log_wall>, [[<terrafirmacraft:item.Log:2>, <terrafirmacraft:item.Log:2>, <terrafirmacraft:item.Log:2>], [<terrafirmacraft:item.Log:2>, <terrafirmacraft:item.Log:2>, <terrafirmacraft:item.Log:2>]]);
+	recipes.addShaped(<customitems:chestnut_log_wall>, [[<terrafirmacraft:item.Log:3>, <terrafirmacraft:item.Log:3>, <terrafirmacraft:item.Log:3>], [<terrafirmacraft:item.Log:3>, <terrafirmacraft:item.Log:3>, <terrafirmacraft:item.Log:3>]]);
+	recipes.addShaped(<customitems:douglas_fir_log_wall>, [[<terrafirmacraft:item.Log:4>, <terrafirmacraft:item.Log:4>, <terrafirmacraft:item.Log:4>], [<terrafirmacraft:item.Log:4>, <terrafirmacraft:item.Log:4>, <terrafirmacraft:item.Log:4>]]);
+	recipes.addShaped(<customitems:hickory_log_wall>, [[<terrafirmacraft:item.Log:5>, <terrafirmacraft:item.Log:5>, <terrafirmacraft:item.Log:5>], [<terrafirmacraft:item.Log:5>, <terrafirmacraft:item.Log:5>, <terrafirmacraft:item.Log:5>]]);
+	recipes.addShaped(<customitems:maple_log_wall>, [[<terrafirmacraft:item.Log:6>, <terrafirmacraft:item.Log:6>, <terrafirmacraft:item.Log:6>], [<terrafirmacraft:item.Log:6>, <terrafirmacraft:item.Log:6>, <terrafirmacraft:item.Log:6>]]);
+	recipes.addShaped(<customitems:ash_log_wall>, [[<terrafirmacraft:item.Log:7>, <terrafirmacraft:item.Log:7>, <terrafirmacraft:item.Log:7>], [<terrafirmacraft:item.Log:7>, <terrafirmacraft:item.Log:7>, <terrafirmacraft:item.Log:7>]]);
+	recipes.addShaped(<customitems:pine_log_wall>, [[<terrafirmacraft:item.Log:8>, <terrafirmacraft:item.Log:8>, <terrafirmacraft:item.Log:8>], [<terrafirmacraft:item.Log:8>, <terrafirmacraft:item.Log:8>, <terrafirmacraft:item.Log:8>]]);
+	recipes.addShaped(<customitems:sequoia_log_wall>, [[<terrafirmacraft:item.Log:9>, <terrafirmacraft:item.Log:9>, <terrafirmacraft:item.Log:9>], [<terrafirmacraft:item.Log:9>, <terrafirmacraft:item.Log:9>, <terrafirmacraft:item.Log:9>]]);
+	recipes.addShaped(<customitems:spruce_log_wall>, [[<terrafirmacraft:item.Log:10>, <terrafirmacraft:item.Log:10>, <terrafirmacraft:item.Log:10>], [<terrafirmacraft:item.Log:10>, <terrafirmacraft:item.Log:10>, <terrafirmacraft:item.Log:10>]]);
+	recipes.addShaped(<customitems:sycamore_log_wall>, [[<terrafirmacraft:item.Log:11>, <terrafirmacraft:item.Log:11>, <terrafirmacraft:item.Log:11>], [<terrafirmacraft:item.Log:11>, <terrafirmacraft:item.Log:11>, <terrafirmacraft:item.Log:11>]]);
+	recipes.addShaped(<customitems:white_cedar_log_wall>, [[<terrafirmacraft:item.Log:12>, <terrafirmacraft:item.Log:12>, <terrafirmacraft:item.Log:12>], [<terrafirmacraft:item.Log:12>, <terrafirmacraft:item.Log:12>, <terrafirmacraft:item.Log:12>]]);
+	recipes.addShaped(<customitems:white_elm_log_wall>, [[<terrafirmacraft:item.Log:13>, <terrafirmacraft:item.Log:13>, <terrafirmacraft:item.Log:13>], [<terrafirmacraft:item.Log:13>, <terrafirmacraft:item.Log:13>, <terrafirmacraft:item.Log:13>]]);
+	recipes.addShaped(<customitems:willow_log_wall>, [[<terrafirmacraft:item.Log:14>, <terrafirmacraft:item.Log:14>, <terrafirmacraft:item.Log:14>], [<terrafirmacraft:item.Log:14>, <terrafirmacraft:item.Log:14>, <terrafirmacraft:item.Log:14>]]);
+	recipes.addShaped(<customitems:kapok_log_wall>, [[<terrafirmacraft:item.Log:15>, <terrafirmacraft:item.Log:15>, <terrafirmacraft:item.Log:15>], [<terrafirmacraft:item.Log:15>, <terrafirmacraft:item.Log:15>, <terrafirmacraft:item.Log:15>]]);
+	recipes.addShaped(<customitems:acacia_log_wall>, [[<terrafirmacraft:item.Log:16>, <terrafirmacraft:item.Log:16>, <terrafirmacraft:item.Log:16>], [<terrafirmacraft:item.Log:16>, <terrafirmacraft:item.Log:16>, <terrafirmacraft:item.Log:16>]]);
+
+	recipes.addShaped(<customitems:juniper_log_wall>, [[<psychedelicraft:psycheLog>, <psychedelicraft:psycheLog>, <psychedelicraft:psycheLog>], [<psychedelicraft:psycheLog>, <psychedelicraft:psycheLog>, <psychedelicraft:psycheLog>]]);
+	recipes.addShaped(<customitems:ebony_log_wall>, [[<customitems:ebony_log>, <customitems:ebony_log>, <customitems:ebony_log>], [<customitems:ebony_log>, <customitems:ebony_log>, <customitems:ebony_log>]]);
+	recipes.addShaped(<customitems:mahogany_log_wall>, [[<customitems:mahogany_log>, <customitems:mahogany_log>, <customitems:mahogany_log>], [<customitems:mahogany_log>, <customitems:mahogany_log>, <customitems:mahogany_log>]]);
+	recipes.addShaped(<customitems:redwood_log_wall>, [[<customitems:redwood_log>, <customitems:redwood_log>, <customitems:redwood_log>], [<customitems:redwood_log>, <customitems:redwood_log>, <customitems:redwood_log>]]);
+	recipes.addShaped(<customitems:eucalyptus_log_wall>, [[<customitems:eucalyptus_log>, <customitems:eucalyptus_log>, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <customitems:eucalyptus_log>, <customitems:eucalyptus_log>]]);
+	recipes.addShaped(<customitems:cherry_log_wall>, [[<customitems:cherry_log>, <customitems:cherry_log>, <customitems:cherry_log>], [<customitems:cherry_log>, <customitems:cherry_log>, <customitems:cherry_log>]]);
+	recipes.addShaped(<customitems:jacaranda_log_wall>, [[<customitems:jacaranda_log>, <customitems:jacaranda_log>, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <customitems:jacaranda_log>, <customitems:jacaranda_log>]]);
+	//recipes.addShaped(<customitems:rowan_log_wall>, [[<dendrology:logs0:2>, <dendrology:logs0:2>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <dendrology:logs0:2>, <dendrology:logs0:2>]]);
+	//recipes.addShaped(<customitems:hagberry_log_wall>, [[<dendrology:logs1:3>, <dendrology:logs1:3>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <dendrology:logs1:3>, <dendrology:logs1:3>]]);
+
+//Full Log Block	
+
+	recipes.addShaped(<customitems:full_oak_log>, [[<terrafirmacraft:item.Log:0>, <terrafirmacraft:item.Log:0>], [<terrafirmacraft:item.Log:0>, <terrafirmacraft:item.Log:0>]]);
+	recipes.addShaped(<customitems:full_aspen_log>, [[<terrafirmacraft:item.Log:1>, <terrafirmacraft:item.Log:1>], [<terrafirmacraft:item.Log:1>, <terrafirmacraft:item.Log:1>]]);
+	recipes.addShaped(<customitems:full_birch_log>, [[<terrafirmacraft:item.Log:2>, <terrafirmacraft:item.Log:2>], [<terrafirmacraft:item.Log:2>, <terrafirmacraft:item.Log:2>]]);
+	recipes.addShaped(<customitems:full_chestnut_log>, [[<terrafirmacraft:item.Log:3>, <terrafirmacraft:item.Log:3>], [<terrafirmacraft:item.Log:3>, <terrafirmacraft:item.Log:3>]]);
+	recipes.addShaped(<customitems:full_douglas_fir_log>, [[<terrafirmacraft:item.Log:4>, <terrafirmacraft:item.Log:4>], [<terrafirmacraft:item.Log:4>, <terrafirmacraft:item.Log:4>]]);
+	recipes.addShaped(<customitems:full_hickory_log>, [[<terrafirmacraft:item.Log:5>, <terrafirmacraft:item.Log:5>], [<terrafirmacraft:item.Log:5>, <terrafirmacraft:item.Log:5>]]);
+	recipes.addShaped(<customitems:full_maple_log>, [[<terrafirmacraft:item.Log:6>, <terrafirmacraft:item.Log:6>], [<terrafirmacraft:item.Log:6>, <terrafirmacraft:item.Log:6>]]);
+	recipes.addShaped(<customitems:full_ash_log>, [[<terrafirmacraft:item.Log:7>, <terrafirmacraft:item.Log:7>], [<terrafirmacraft:item.Log:7>, <terrafirmacraft:item.Log:7>]]);
+	recipes.addShaped(<customitems:full_pine_log>, [[<terrafirmacraft:item.Log:8>, <terrafirmacraft:item.Log:8>], [<terrafirmacraft:item.Log:8>, <terrafirmacraft:item.Log:8>]]);
+	recipes.addShaped(<customitems:full_sequoia_log>, [[<terrafirmacraft:item.Log:9>, <terrafirmacraft:item.Log:9>], [<terrafirmacraft:item.Log:9>, <terrafirmacraft:item.Log:9>]]);
+	recipes.addShaped(<customitems:full_spruce_log>, [[<terrafirmacraft:item.Log:10>, <terrafirmacraft:item.Log:10>], [<terrafirmacraft:item.Log:10>, <terrafirmacraft:item.Log:10>]]);
+	recipes.addShaped(<customitems:full_sycamore_log>, [[<terrafirmacraft:item.Log:11>, <terrafirmacraft:item.Log:11>], [<terrafirmacraft:item.Log:11>, <terrafirmacraft:item.Log:11>]]);
+	recipes.addShaped(<customitems:full_white_cedar_log>, [[<terrafirmacraft:item.Log:12>, <terrafirmacraft:item.Log:12>], [<terrafirmacraft:item.Log:12>, <terrafirmacraft:item.Log:12>]]);
+	recipes.addShaped(<customitems:full_white_elm_log>, [[<terrafirmacraft:item.Log:13>, <terrafirmacraft:item.Log:13>], [<terrafirmacraft:item.Log:13>, <terrafirmacraft:item.Log:13>]]);
+	recipes.addShaped(<customitems:full_willow_log>, [[<terrafirmacraft:item.Log:14>, <terrafirmacraft:item.Log:14>], [<terrafirmacraft:item.Log:14>, <terrafirmacraft:item.Log:14>]]);
+	recipes.addShaped(<customitems:full_kapok_log>, [[<terrafirmacraft:item.Log:15>, <terrafirmacraft:item.Log:15>], [<terrafirmacraft:item.Log:15>, <terrafirmacraft:item.Log:15>]]);
+	recipes.addShaped(<customitems:full_acacia_log>, [[<terrafirmacraft:item.Log:16>, <terrafirmacraft:item.Log:16>], [<terrafirmacraft:item.Log:16>, <terrafirmacraft:item.Log:16>]]);
+
+	recipes.addShaped(<customitems:full_juniper_log>, [[<psychedelicraft:psycheLog>, <psychedelicraft:psycheLog>], [<psychedelicraft:psycheLog>, <psychedelicraft:psycheLog>]]);
+	recipes.addShaped(<customitems:full_ebony_log>, [[<customitems:ebony_log>, <customitems:ebony_log>], [<customitems:ebony_log>, <customitems:ebony_log>]]);
+	recipes.addShaped(<customitems:full_mahogany_log>, [[<customitems:mahogany_log>, <customitems:mahogany_log>], [<customitems:mahogany_log>, <customitems:mahogany_log>]]);
+	recipes.addShaped(<customitems:full_redwood_log>, [[<customitems:redwood_log>, <customitems:redwood_log>], [<customitems:redwood_log>, <customitems:redwood_log>]]);
+	recipes.addShaped(<customitems:full_eucalyptus_log>, [[<customitems:eucalyptus_log>, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <customitems:eucalyptus_log>]]);
+	recipes.addShaped(<customitems:full_cherry_log>, [[<customitems:cherry_log>, <customitems:cherry_log>], [<customitems:cherry_log>, <customitems:cherry_log>]]);
+	recipes.addShaped(<customitems:full_jacaranda_log>, [[<customitems:jacaranda_log>, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <customitems:jacaranda_log>]]);
+	//recipes.addShaped(<customitems:full_rowan_log>, [[<dendrology:logs0:2>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <dendrology:logs0:2>]]);
+	//recipes.addShaped(<customitems:full_hagberry_log>, [[<dendrology:logs1:3>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <dendrology:logs1:3>]]);
+	
 //Vanilla Logs Rename
 
 	<minecraft:log:0>.displayName = "Redwood Log";
@@ -187,6 +277,34 @@ var woodLumber = <ore:woodLumber>;
     woodLumber.add(<customitems:juniper_lumber>);
     woodLumber.add(<customitems:rowan_lumber>);
     woodLumber.add(<customitems:hagberry_lumber>);
+
+	woodLumber.add(<customitems:full_oak_log>);
+	woodLumber.add(<customitems:full_aspen_log>);
+	woodLumber.add(<customitems:full_birch_log>);
+	woodLumber.add(<customitems:full_chestnut_log>);
+	woodLumber.add(<customitems:full_douglas_fir_log>);
+	woodLumber.add(<customitems:full_hickory_log>);
+	woodLumber.add(<customitems:full_maple_log>);
+	woodLumber.add(<customitems:full_ash_log>);
+	woodLumber.add(<customitems:full_pine_log>);
+	woodLumber.add(<customitems:full_sequoia_log>);
+	woodLumber.add(<customitems:full_spruce_log>);
+	woodLumber.add(<customitems:full_sycamore_log>);
+	woodLumber.add(<customitems:full_white_cedar_log>);
+	woodLumber.add(<customitems:full_white_elm_log>);
+	woodLumber.add(<customitems:full_willow_log>);
+	woodLumber.add(<customitems:full_kapok_log>);
+	woodLumber.add(<customitems:full_acacia_log>);
+
+	woodLumber.add(<customitems:full_juniper_log>);
+	woodLumber.add(<customitems:full_ebony_log>);
+	woodLumber.add(<customitems:full_mahogany_log>);
+	woodLumber.add(<customitems:full_redwood_log>);
+	woodLumber.add(<customitems:full_eucalyptus_log>);
+	woodLumber.add(<customitems:full_cherry_log>);
+	woodLumber.add(<customitems:full_jacaranda_log>);
+	woodLumber.add(<customitems:full_rowan_log>);
+	woodLumber.add(<customitems:full_hagberry_log>);
 	
 var logWood = <ore:logWood>;
     logWood.add(<customitems:stripped_cherry_log>);

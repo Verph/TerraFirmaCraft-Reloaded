@@ -1,170 +1,143 @@
 
 {
     "blocks":
-    [
-		{
-            "name": "Spodumene",
-            "textureName": "orespodumene", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "customitems:spodumene_chunk",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
+    [		
+        {
+            "name": "Barley Hay Bale",      
+			"type": "Log",                   
+            "material": "grass",  
+			"stepSound": "grass",          
+			"maxStackSize":32,                   
+            "hardness": 1,
+			"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+			"flammability": "20",
+			"fireEncouragement": "60",
+            "multipleTextures":{
+                "yneg":"Barley Hay Bale Top",
+                "ypos":"Barley Hay Bale Top",
+                "zneg":"Barley Hay Bale",
+                "zpos":"Barley Hay Bale",
+                "xneg":"Barley Hay Bale",
+                "xpos":"Barley Hay Bale"
+            }
+
         },
 		
-		{
-            "name": "Ulexite Rock Salt Ore",
-            "textureName": "oreulexite rock salt", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "customitems:ulexite_mineral",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
+        {
+            "name": "Maize Hay Bale",    
+			"type": "Log",                     
+            "material": "grass",  
+			"stepSound": "grass",          
+			"maxStackSize":32,                   
+            "hardness": 1,
+			"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+			"flammability": "20",
+			"fireEncouragement": "60",
+            "multipleTextures":{
+                "yneg":"Maize Hay Bale Top",
+                "ypos":"Maize Hay Bale Top",
+                "zneg":"Maize Hay Bale",
+                "zpos":"Maize Hay Bale",
+                "xneg":"Maize Hay Bale",
+                "xpos":"Maize Hay Bale"
+            }
+
         },
 		
-		{
-            "name": "Ulexite Chalk Ore",
-            "textureName": "oreulexite chalk", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "customitems:ulexite_mineral",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
+        {
+            "name": "Oat Hay Bale",    
+			"type": "Log",                     
+            "material": "grass",  
+			"stepSound": "grass",          
+			"maxStackSize":32,                   
+            "hardness": 1,
+			"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+			"flammability": "20",
+			"fireEncouragement": "60",
+            "multipleTextures":{
+                "yneg":"Oat Hay Bale Top",
+                "ypos":"Oat Hay Bale Top",
+                "zneg":"Oat Hay Bale",
+                "zpos":"Oat Hay Bale",
+                "xneg":"Oat Hay Bale",
+                "xpos":"Oat Hay Bale"
+            }
+
         },
 		
-		{
-            "name": "Halite Shale Ore",
-            "textureName": "oresalt shale", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
+        {
+            "name": "Rice Hay Bale",    
+			"type": "Log",           
+            "material": "grass",  
+			"stepSound": "grass",          
+			"maxStackSize":32,                   
+            "hardness": 1,
+			"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+			"flammability": "20",
+			"fireEncouragement": "60",
+            "multipleTextures":{
+                "yneg":"Rice Hay Bale Top",
+                "ypos":"Rice Hay Bale Top",
+                "zneg":"Rice Hay Bale",
+                "zpos":"Rice Hay Bale",
+                "xneg":"Rice Hay Bale",
+                "xpos":"Rice Hay Bale"
+            }
+
         },
 		
-		{
-            "name": "Halite Rock Salt Ore",
-            "textureName": "oresalt rock salt", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
+        {
+            "name": "Rye Hay Bale",     
+			"type": "Log",                    
+            "material": "grass",  
+			"stepSound": "grass",          
+			"maxStackSize":32,                   
+            "hardness": 1,
+			"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+			"flammability": "20",
+			"fireEncouragement": "60",
+            "multipleTextures":{
+                "yneg":"Rye Hay Bale Top",
+                "ypos":"Rye Hay Bale Top",
+                "zneg":"Rye Hay Bale",
+                "zpos":"Rye Hay Bale",
+                "xneg":"Rye Hay Bale",
+                "xpos":"Rye Hay Bale"
+            }
+
         },
 		
-		{
-            "name": "Halite Limestone Ore",
-            "textureName": "oresalt limestone", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
-        },
-		
-		{
-            "name": "Halite Dolomite Ore",
-            "textureName": "oresalt dolomite", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
-        },
-		
-		{
-            "name": "Halite Claystone Ore",
-            "textureName": "oresalt claystone", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
-        },
-		
-		{
-            "name": "Halite Chalk Ore",
-            "textureName": "oresalt chalk", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
-        },
-		
-		{
-            "name": "Halite Conglomerate Ore",
-            "textureName": "oresalt conglomerate", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
-        },
-		
-		{
-            "name": "Halite Chert Ore",
-            "textureName": "oresalt chert", 
-            "toolClass": "pickaxe",
-            "stepSound": "stone",
-            "material": "rock",
-            "resistance": 19,            
-            "hardness": 20,
-		"creativeTab":"Miscellaneous Things",
-            "dropItemName": "harvestcraft:saltItem",
-            "minItemDrop": 1,
-            "maxItemDrop": 2,
-            "eachExtraItemDropChance": 10
+        {
+            "name": "Wheat Hay Bale",   
+			"type": "Log",                      
+            "material": "grass",  
+			"stepSound": "grass",          
+			"maxStackSize":32,                   
+            "hardness": 1,
+			"creativeTab":"Miscellaneous Things",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+			"flammability": "20",
+			"fireEncouragement": "60",
+            "multipleTextures":{
+                "yneg":"Wheat Hay Bale Top",
+                "ypos":"Wheat Hay Bale Top",
+                "zneg":"Wheat Hay Bale",
+                "zpos":"Wheat Hay Bale",
+                "xneg":"Wheat Hay Bale",
+                "xpos":"Wheat Hay Bale"
+            }
+
         },
 		
         {

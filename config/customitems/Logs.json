@@ -1,20 +1,18 @@
-
-{
-    "blocks":
-    [
-        {
-            "name": "Stripped Oak Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+{  
+    "blocks":[  
+        {  
+            "name":"Stripped Oak Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogOakTop",
                 "ypos":"StrippedLogOakTop",
                 "zneg":"StrippedLogOak",
@@ -23,20 +21,19 @@
                 "xpos":"StrippedLogOak"
             }
         },
-		
-        {
-            "name": "Stripped Aspen Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Aspen Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogAspenTop",
                 "ypos":"StrippedLogAspenTop",
                 "zneg":"StrippedLogAspen",
@@ -45,20 +42,19 @@
                 "xpos":"StrippedLogAspen"
             }
         },
-		
-        {
-            "name": "Stripped Birch Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Birch Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogBirchTop",
                 "ypos":"StrippedLogBirchTop",
                 "zneg":"StrippedLogBirch",
@@ -67,20 +63,19 @@
                 "xpos":"StrippedLogBirch"
             }
         },
-		
-        {
-            "name": "Stripped Chestnut Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Chestnut Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogChestnutTop",
                 "ypos":"StrippedLogChestnutTop",
                 "zneg":"StrippedLogChestnut",
@@ -89,20 +84,19 @@
                 "xpos":"StrippedLogChestnut"
             }
         },
-		
-        {
-            "name": "Stripped Douglas Fir Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Douglas Fir Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogDouglasFirTop",
                 "ypos":"StrippedLogDouglasFirTop",
                 "zneg":"StrippedLogDouglasFir",
@@ -111,20 +105,19 @@
                 "xpos":"StrippedLogDouglasFir"
             }
         },
-		
-        {
-            "name": "Stripped Hickory Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Hickory Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogHickoryTop",
                 "ypos":"StrippedLogHickoryTop",
                 "zneg":"StrippedLogHickory",
@@ -133,20 +126,19 @@
                 "xpos":"StrippedLogHickory"
             }
         },
-		
-        {
-            "name": "Stripped Maple Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Maple Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogMapleTop",
                 "ypos":"StrippedLogMapleTop",
                 "zneg":"StrippedLogMaple",
@@ -155,20 +147,19 @@
                 "xpos":"StrippedLogMaple"
             }
         },
-		
-        {
-            "name": "Stripped Ash Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Ash Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogAshTop",
                 "ypos":"StrippedLogAshTop",
                 "zneg":"StrippedLogAsh",
@@ -177,20 +168,19 @@
                 "xpos":"StrippedLogAsh"
             }
         },
-		
-        {
-            "name": "Stripped Pine Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Pine Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogPineTop",
                 "ypos":"StrippedLogPineTop",
                 "zneg":"StrippedLogPine",
@@ -199,20 +189,19 @@
                 "xpos":"StrippedLogPine"
             }
         },
-		
-        {
-            "name": "Stripped Sequoia Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Sequoia Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogSequoiaTop",
                 "ypos":"StrippedLogSequoiaTop",
                 "zneg":"StrippedLogSequoia",
@@ -221,20 +210,19 @@
                 "xpos":"StrippedLogSequoia"
             }
         },
-		
-        {
-            "name": "Stripped Spruce Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Spruce Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogSpruceTop",
                 "ypos":"StrippedLogSpruceTop",
                 "zneg":"StrippedLogSpruce",
@@ -243,20 +231,19 @@
                 "xpos":"StrippedLogSpruce"
             }
         },
-		
-        {
-            "name": "Stripped Sycamore Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Sycamore Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogSycamoreTop",
                 "ypos":"StrippedLogSycamoreTop",
                 "zneg":"StrippedLogSycamore",
@@ -265,20 +252,19 @@
                 "xpos":"StrippedLogSycamore"
             }
         },
-		
-        {
-            "name": "Stripped White Cedar Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped White Cedar Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogWhiteCedarTop",
                 "ypos":"StrippedLogWhiteCedarTop",
                 "zneg":"StrippedLogWhiteCedar",
@@ -287,20 +273,19 @@
                 "xpos":"StrippedLogWhiteCedar"
             }
         },
-		
-        {
-            "name": "Stripped White Elm Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped White Elm Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogWhiteElmTop",
                 "ypos":"StrippedLogWhiteElmTop",
                 "zneg":"StrippedLogWhiteElm",
@@ -309,20 +294,19 @@
                 "xpos":"StrippedLogWhiteElm"
             }
         },
-		
-        {
-            "name": "Stripped Willow Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Willow Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogWillowTop",
                 "ypos":"StrippedLogWillowTop",
                 "zneg":"StrippedLogWillow",
@@ -331,20 +315,19 @@
                 "xpos":"StrippedLogWillow"
             }
         },
-		
-        {
-            "name": "Stripped Kapok Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Kapok Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogKapokTop",
                 "ypos":"StrippedLogKapokTop",
                 "zneg":"StrippedLogKapok",
@@ -353,20 +336,19 @@
                 "xpos":"StrippedLogKapok"
             }
         },
-		
-        {
-            "name": "Stripped Acacia Log",              
-            "material": "wood",              
-            "hardness": 2,
-		"creativeTab":"Log Expansion",
-			"flammability": "5",
-			"fireEncouragement": "5",
-	    "type": "Log", 
-	    "maxStackSize":16,     
-            "resistance": 15,
-            "harvestLevel": 0,
-	    "toolClass":"axe",              
-            "multipleTextures":{
+        {  
+            "name":"Stripped Acacia Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "multipleTextures":{  
                 "yneg":"StrippedLogAcaciaTop",
                 "ypos":"StrippedLogAcaciaTop",
                 "zneg":"StrippedLogAcacia",
@@ -374,6 +356,1046 @@
                 "xneg":"StrippedLogAcacia",
                 "xpos":"StrippedLogAcacia"
             }
+        },
+        {  
+            "name":"Acacia Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Acacia Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Ash Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Ash Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Aspen Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Aspen Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Birch Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Birch Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Chestnut Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Chestnut Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Douglas Fir Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Douglas Fir Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Hickory Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Hickory Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Kapok Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Kapok Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Maple Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Maple Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Oak Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Oak Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Pine Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Pine Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Sequoia Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Sequoia Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Spruce Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Spruce Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Sycamore Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Sycamore Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"White Cedar Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"White Cedar Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"White Elm Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"White Elm Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Willow Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Willow Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Cherry Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogCherry",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Ebony Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogEbony",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Eucalyptus Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogEucalyptus",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Jacaranda Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogJacaranda",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Mahogany Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogJacaranda",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Redwood Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogRedwood",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Juniper Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogJuniper",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Rowan Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogRowan",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Hagberry Log Fence"            ; 
+"type":"fence"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogHagberry",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Acacia Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Acacia Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Ash Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Ash Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Aspen Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Aspen Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Birch Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Birch Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Chestnut Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Chestnut Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Douglas Fir Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Douglas Fir Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Hickory Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Hickory Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Kapok Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Kapok Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Maple Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Maple Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Oak Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Oak Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Pine Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Pine Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Sequoia Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Sequoia Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Spruce Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Spruce Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Sycamore Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Sycamore Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"White Cedar Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"White Cedar Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"White Elm Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"White Elm Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Willow Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"Willow Log",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Cherry Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogCherry",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Ebony Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogEbony",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Eucalyptus Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogEucalyptus",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Jacaranda Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogJacaranda",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Mahogany Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogJacaranda",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Redwood Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogRedwood",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Juniper Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogJuniper",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Rowan Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogRowan",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Hagberry Log Wall"            ; 
+"type":"wall"            ;  
+"material":"wood",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "resistance":20,
+            "harvestLevel":0,
+            "textureName":"LogHagberry",
+            "toolClass":"axe"
+        },
+        {  
+            "name":"Full Acacia Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Acacia Log"
+        },
+        {  
+            "name":"Full Ash Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Ash Log"
+        },
+        {  
+            "name":"Full Aspen Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Aspen Log"
+        },
+        {  
+            "name":"Full Birch Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Birch Log"
+        },
+        {  
+            "name":"Full Chestnut Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Chestnut Log"
+        },
+        {  
+            "name":"Full Douglas Fir Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Douglas Fir Log"
+        },
+        {  
+            "name":"Full Hickory Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Hickory Log"
+        },
+        {  
+            "name":"Full Kapok Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Kapok Log"
+        },
+        {  
+            "name":"Full Maple Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Maple Log"
+        },
+        {  
+            "name":"Full Oak Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Oak Log"
+        },
+        {  
+            "name":"Full Pine Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Pine Log"
+        },
+        {  
+            "name":"Full Sequoia Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Sequoia Log"
+        },
+        {  
+            "name":"Full Spruce Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Spruce Log"
+        },
+        {  
+            "name":"Full Sycamore Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Sycamore Log"
+        },
+        {  
+            "name":"Full White Cedar Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"White Cedar Log"
+        },
+        {  
+            "name":"Full White Elm Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"White Elm Log"
+        },
+        {  
+            "name":"Full Willow Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"Willow Log"
+        },
+        {  
+            "name":"Full Cherry Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogCherry"
+        },
+        {  
+            "name":"Full Ebony Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogEbony"
+        },
+        {  
+            "name":"Full Eucalyptus Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogEucalyptus"
+        },
+        {  
+            "name":"Full Jacaranda Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogJacaranda"
+        },
+        {  
+            "name":"Full Mahogany Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogMahogany"
+        },
+        {  
+            "name":"Full Redwood Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogRedwood"
+        },
+        {  
+            "name":"Full Juniper Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogJuniper"
+        },
+        {  
+            "name":"Full Rowan Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogRowan"
+        },
+        {  
+            "name":"Full Hagberry Log",
+            "material":"wood",
+            "hardness":2,
+            "creativeTab":"Log Expansion",
+            "flammability":"5",
+            "fireEncouragement":"5",
+            "type":"Log",
+            "maxStackSize":16,
+            "resistance":15,
+            "harvestLevel":0,
+            "toolClass":"axe",
+            "textureName":"LogHagberry"
         }
     ]
 }

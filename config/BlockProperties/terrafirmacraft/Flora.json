@@ -10,13 +10,7 @@
     "tool_data": []
   },
   "break_speed": [],
-  "drops": [
-			{
-				"function": "add",
-				"count": "0.01",
-				"id":"harvestcraft:queenbeeItem"
-		}
-	],
+  "drops": [],
   "harvest": [],
   "xp": []
 }

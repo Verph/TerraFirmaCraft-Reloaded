@@ -423,14 +423,16 @@
 
 	recipes.addShapeless(<TConstruct:bowstring>, [<terrafirmastuff:item.twine>, <terrafirmacraft:item.Spindle>.transformDamage(1)]);
 	recipes.addShapeless(<TConstruct:bowstring>, [<ore:materialString>, <terrafirmacraft:item.Spindle>.transformDamage(1)]);
-	recipes.addShapeless(<TConstruct:fletching:1>, [<ore:itemKnife>, <minecraft:paper>]);
-	recipes.addShapeless(<TConstruct:fletching:2> * 4, [<ore:itemKnife>, <exoticbirds:peacock_feather>]);
-	recipes.addShapeless(<TConstruct:fletching:4> * 4, [<ore:itemKnife>, <exoticbirds:phoenix_feather>]);
-	recipes.addShapeless(<TConstruct:fletching> * 4, [<ore:itemKnife>, <minecraft:feather>]);
+	recipes.addShapeless(<TConstruct:fletching> * 2, [<ore:itemKnife>, <minecraft:feather>]);
+	recipes.addShapeless(<TConstruct:fletching:1> * 2, [<ore:itemKnife>, <minecraft:paper>]);
+	recipes.addShapeless(<TConstruct:fletching:2> * 2, [<ore:itemKnife>, <exoticbirds:peacock_feather>]);
+	recipes.addShapeless(<TConstruct:fletching:3> * 2, [<ore:itemKnife>, <harvestcraft:wovencottonItem>]);
+	recipes.addShapeless(<TConstruct:fletching:4> * 2, [<ore:itemKnife>, <exoticbirds:phoenix_feather>]);
 
 
 	<TConstruct:fletching:1>.displayName = "Paper Fletching";
 	<TConstruct:fletching:2>.displayName = "Peacock Fletching";
+	<TConstruct:fletching:3>.displayName = "Cotton Fletching";
 	<TConstruct:fletching:4>.displayName = "Phoenix Fletching";
 
 

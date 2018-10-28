@@ -80,6 +80,11 @@
             "name":"Hagberry Lumber",
             "textureName":"HagberryPlank",
             "creativeTab":"Log Expansion"
+        },
+        {
+            "name":"Glowstone Shard",
+            "textureName":"GlowstoneShard",
+            "creativeTab":"Miscellaneous Things"
         }
 	],
     "hoes": [

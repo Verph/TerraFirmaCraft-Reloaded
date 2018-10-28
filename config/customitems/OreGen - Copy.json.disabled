@@ -1,0 +1,125 @@
+{  
+	"oreGen":[  
+		{  
+			"blockToSpawn": "harvestcraft:beehive",
+			"blockToReplace": "terrafirmacraft:TallGrass",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 20,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:beehive",
+			"blockToReplace": "terrafirmacraft:TallGrass",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 20,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:beehive",
+			"blockToReplace": "terrafirmacraft:TallGrass",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 20,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:pamcottonCrop",
+			"blockToReplace": "plantmegapack:berrybushBeauty",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:pampineappleCrop",
+			"blockToReplace": "plantmegapack:berrybushBlack",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:pamgrapeCrop",
+			"blockToReplace": "plantmegapack:berrybushBlue",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:pamtealeafCrop",
+			"blockToReplace": "plantmegapack:berrybushGoose",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "psychedelicraft:hop_plant",
+			"blockToReplace": "plantmegapack:berrybushElder",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "psychedelicraft:cannabisPlant",
+			"blockToReplace": "plantmegapack:berrybushHuckle",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "psychedelicraft:tobaccoPlant",
+			"blockToReplace": "plantmegapack:berrybushOrange",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "psychedelicraft:cocaPlant",
+			"blockToReplace": "plantmegapack:berrybushSnow",
+			"dimensionId": 0,
+			"minVeinSize": 100,
+			"maxVeinSize": 100,
+			"chancesToSpawn": 100,
+			"minY": 60,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "psychedelicraft:peyote",
+			"blockToReplace": "terrafirmacraft:LooseRock",
+			"biomeId": [16],
+			"dimensionId": 0,
+			"minVeinSize": 10,
+			"maxVeinSize": 15,
+			"chancessToSpawn": 100,
+			"minY": 60,
+			"maxY": 200
+		}
+    ]
+}

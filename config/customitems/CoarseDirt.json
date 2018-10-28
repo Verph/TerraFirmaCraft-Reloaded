@@ -1,0 +1,321 @@
+
+{
+    "blocks":
+    [
+		{
+			"name": "Coarse Andesite Dirt",
+			"textureName": "coarse andesite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Basalt Dirt",
+			"textureName": "coarse basalt dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Chalk Dirt",
+			"textureName": "coarse chalk dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Chert Dirt",
+			"textureName": "coarse chert dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Claystone Dirt",
+			"textureName": "coarse claystone dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Conglomerate Dirt",
+			"textureName": "coarse conglomerate dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Dacite Dirt",
+			"textureName": "coarse dacite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Diorite Dirt",
+			"textureName": "coarse diorite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Dolomite Dirt",
+			"textureName": "coarse dolomite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Gabbro Dirt",
+			"textureName": "coarse gabbro dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Gneiss Dirt",
+			"textureName": "coarse gneiss dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Granite Dirt",
+			"textureName": "coarse granite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Limestone Dirt",
+			"textureName": "coarse limestone dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Marble Dirt",
+			"textureName": "coarse marble dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Phyllite Dirt",
+			"textureName": "coarse phyllite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Quartzite Dirt",
+			"textureName": "coarse quartzite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Rhyolite Dirt",
+			"textureName": "coarse rhyolite dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Rock Salt Dirt",
+			"textureName": "coarse rock salt dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Schist Dirt",
+			"textureName": "coarse schist dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Shale Dirt",
+			"textureName": "coarse shale dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        },
+		
+		{
+			"name": "Coarse Slate Dirt",
+			"textureName": "coarse slate dirt",
+
+			"toolClass": "shovel",
+	    "maxStackSize":32,    
+            "material": "dirt",
+            "stepSound": "dirt",
+            "resistance": 2.5,
+            "harvestLevel": 0,
+            "hardness": 4,
+
+            "creativeTab": "Miscellaneous Things"
+        }
+       
+    ]
+}

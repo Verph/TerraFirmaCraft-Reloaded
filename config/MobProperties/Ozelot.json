@@ -2,5 +2,14 @@
   "_name": "Ozelot",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 2000,
+	"override": true,
+    "operator": 1
+    }
+  ]
 }

@@ -1,0 +1,280 @@
+
+{
+    "blocks":
+    [
+		{
+            "name": "Spodumene Quartzite",
+            "textureName": "orespodumene quartzite", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:spodumene_chunk",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Spodumene Ore",
+            "textureName": "orespodumene", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:spodumene_chunk",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Ulexite Rock Salt Ore",
+            "textureName": "oreulexite rock salt", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:ulexite_mineral",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Ulexite Chalk Ore",
+            "textureName": "oreulexite chalk", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:ulexite_mineral",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Ulexite Ore",
+            "textureName": "oreulexite", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:ulexite_mineral",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Shale Ore",
+            "textureName": "oresalt shale", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Rock Salt Ore",
+            "textureName": "oresalt rock salt", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Limestone Ore",
+            "textureName": "oresalt limestone", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Dolomite Ore",
+            "textureName": "oresalt dolomite", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Claystone Ore",
+            "textureName": "oresalt claystone", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Chalk Ore",
+            "textureName": "oresalt chalk", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Conglomerate Ore",
+            "textureName": "oresalt conglomerate", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Chert Ore",
+            "textureName": "oresalt chert", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Halite Ore",
+            "textureName": "oresalt halite", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "harvestcraft:saltItem",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Glowstone Rhyolite Ore",
+            "textureName": "Glowstone Rhyolite Ore", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+			"lightLevel": 12,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:glowstone_shard",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Glowstone Dacite Ore",
+            "textureName": "Glowstone Dacite Ore", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+			"lightLevel": 12,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:glowstone_shard",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Glowstone Andesite Ore",
+            "textureName": "Glowstone Andesite Ore", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+			"lightLevel": 12,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:glowstone_shard",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        },
+		
+		{
+            "name": "Glowstone Basalt Ore",
+            "textureName": "Glowstone Basalt Ore", 
+            "toolClass": "pickaxe",
+            "stepSound": "stone",
+            "material": "rock",
+            "resistance": 19,            
+            "hardness": 20,
+			"lightLevel": 12,
+		"creativeTab":"Miscellaneous Things",
+            "dropItemName": "customitems:glowstone_shard",
+            "minItemDrop": 1,
+            "maxItemDrop": 2,
+            "eachExtraItemDropChance": 10
+        }
+       
+    ]
+}

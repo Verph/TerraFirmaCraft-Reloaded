@@ -15,7 +15,53 @@
     ]
   },
   "break_speed": [],
-  "drops": [],
+"drops": [
+{ 
+"function": "if_metadata_0", 
+"functions":  [{ 
+         "function": "add", 
+         "id": "terrafirmacraft:Dirt2", 
+"damage": "0", 
+         "count": "1" 
+       }] 
+},
+{ 
+"function": "if_metadata_1", 
+"functions":  [{ 
+         "function": "add", 
+         "id": "terrafirmacraft:Dirt2", 
+"damage": "1", 
+         "count": "1" 
+       }] 
+},
+{ 
+"function": "if_metadata_2", 
+"functions":  [{ 
+         "function": "add", 
+         "id": "terrafirmacraft:Dirt2", 
+"damage": "2", 
+         "count": "1" 
+       }] 
+},
+{ 
+"function": "if_metadata_3", 
+"functions":  [{ 
+         "function": "add", 
+         "id": "terrafirmacraft:Dirt2", 
+"damage": "3", 
+         "count": "1" 
+       }] 
+},
+{ 
+"function": "if_metadata_4", 
+"functions":  [{ 
+         "function": "add", 
+         "id": "terrafirmacraft:Dirt2", 
+"damage": "4", 
+         "count": "1" 
+       }] 
+}
+], 
   "harvest": [],
   "xp": []
 }

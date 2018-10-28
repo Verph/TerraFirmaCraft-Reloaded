@@ -1,0 +1,34 @@
+{  
+	"oreGen":[
+		{  
+			"blockToSpawn": "harvestcraft:beehive",
+			"blockToReplace": "terrafirmacraft:TallGrass:0",
+			"dimensionId": 0,
+			"minVeinSize": 2,
+			"maxVeinSize": 10,
+			"chancesToSpawn": 100,
+			"minY": 50,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:beehive",
+			"blockToReplace": "terrafirmacraft:TallGrass:1",
+			"dimensionId": 0,
+			"minVeinSize": 2,
+			"maxVeinSize": 10,
+			"chancesToSpawn": 100,
+			"minY": 50,
+			"maxY": 255
+		},
+		{  
+			"blockToSpawn": "harvestcraft:beehive",
+			"blockToReplace": "terrafirmacraft:TallGrass:2",
+			"dimensionId": 0,
+			"minVeinSize": 2,
+			"maxVeinSize": 10,
+			"chancesToSpawn": 100,
+			"minY": 50,
+			"maxY": 255
+		}
+    ]
+}
