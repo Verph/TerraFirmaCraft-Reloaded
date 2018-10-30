@@ -3,10 +3,10 @@
 	recipes.addShapeless(<tfcprimitivetech:itemWoodenTwig> * 5, [<ore:logWood>, <ore:itemHammer>]);
 
 	recipes.addShapeless(<terrafirmacraft:item.Sugar>.withTag({foodWeight: 1.5 as float, foodDecay: -24 as float, decayTimer: 2250}), [<ore:toolPot>, <harvestcraft:honeyItem>]);
-	recipes.addShapeless(<cookingwithtfc:item.Salt:1>.withTag({foodWeight: 2.0 as float, foodDecay: 0.0 as float, decayTimer: 21614}), [<ore:toolPot>, <ore:bucketWater>.giveBack(<terrafirmacraft:item.Wooden Bucket Empty>)]);
-	recipes.addShapeless(<cookingwithtfc:item.Salt:1>.withTag({foodWeight: 2.0 as float, foodDecay: 0.0 as float, decayTimer: 21614}), [<ore:toolPot>, <tfcudarymod:item.Ceramic Bucket Salt Water>.giveBack(<tfcudarymod:item.Ceramic Bucket>)]);
-	recipes.addShapeless(<cookingwithtfc:item.Salt:1>.withTag({foodWeight: 2.0 as float, foodDecay: 0.0 as float, decayTimer: 21614}), [<ore:toolPot>, <terrafirmacraft:item.Red Steel Bucket Salt Water>.giveBack(<terrafirmacraft:item.Red Steel Bucket Empty>)]);
-	recipes.addShapeless(<cookingwithtfc:item.Salt:1>.withTag({foodWeight: 2.0 as float, foodDecay: 0.0 as float, decayTimer: 21614}), [<ore:toolPot>, <terrafirmacraft:item.Wooden Bucket Salt Water>.giveBack(<terrafirmacraft:item.Wooden Bucket Empty>)]);
+	recipes.addShapeless(<terrafirmacraft:item.Powder:9>, [<ore:toolPot>, <ore:bucketWater>.giveBack(<terrafirmacraft:item.Wooden Bucket Empty>)]);
+	recipes.addShapeless(<terrafirmacraft:item.Powder:9>, [<ore:toolPot>, <tfcudarymod:item.Ceramic Bucket Salt Water>.giveBack(<tfcudarymod:item.Ceramic Bucket>)]);
+	recipes.addShapeless(<terrafirmacraft:item.Powder:9>, [<ore:toolPot>, <terrafirmacraft:item.Red Steel Bucket Salt Water>.giveBack(<terrafirmacraft:item.Red Steel Bucket Empty>)]);
+	recipes.addShapeless(<terrafirmacraft:item.Powder:9>, [<ore:toolPot>, <terrafirmacraft:item.Wooden Bucket Salt Water>.giveBack(<terrafirmacraft:item.Wooden Bucket Empty>)]);
 	
 //Sedimentary
 	//recipes.addShapeless(<terrafirmacraft:item.Sed Stone Javelin>, [<terrafirmacraft:item.Sed Stone Javelin Head>, <customitems:bark_rope>, <minecraft:bone>]);

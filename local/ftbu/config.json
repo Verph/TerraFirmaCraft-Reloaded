@@ -65,7 +65,7 @@
     ],
     "forced_chunk_security": "-",
     "forced_explosions": "-",
-    "max_claims": 100,
+    "max_claims": 49,
     "max_homes": 1,
     "max_loaded_chunks": 50,
     "show_rank": true

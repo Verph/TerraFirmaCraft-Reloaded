@@ -1,0 +1,22 @@
+{
+  "_name": "Natura.FlameSpider",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the mob's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": "60~300",
+    "override": true
+    },
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 5000,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

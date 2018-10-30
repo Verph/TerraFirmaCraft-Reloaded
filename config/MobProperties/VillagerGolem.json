@@ -1,6 +1,34 @@
 {
   "_name": "VillagerGolem",
-  "drops": [],
+  "drops": [
+            {
+              "function": "add",
+              "id": "terrafirmacraft:item.Wrought Iron Ingot",
+              "count": "3~5"
+			},
+            {
+              "function": "add",
+              "id": "minecraft:double_plant",
+			  "damage": 4,
+              "count": "0~2"
+		}
+	],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+		{
+			"_comment": "increase the mob's attack strength",
+			"function": "modifier",
+			"attribute": "generic.attackDamage",
+			"value": 150,
+			"override": true
+		},
+		{
+			"_comment": "increase the mob's max health",
+			"function": "modifier",
+			"attribute": "generic.maxHealth",
+			"value": 4500,
+			"override": true,
+			"operator": 1
+		}
+	]
 }

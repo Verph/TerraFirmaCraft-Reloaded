@@ -1,0 +1,22 @@
+{
+  "_name": "Natura.FlameSpiderBaby",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+    "_comment": "increase the mob's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": "30~150",
+    "override": true
+    },
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 2500,
+	"override": true,
+    "operator": 1
+    }
+  ]
+}

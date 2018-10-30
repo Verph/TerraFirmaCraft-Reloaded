@@ -376,12 +376,12 @@
 	recipes.remove(<TConstruct:trap.barricade.birch>);
 	recipes.remove(<TConstruct:trap.barricade.jungle>);
 
-	recipes.remove(<TConstruct:travelBelt>);
-	recipes.remove(<TConstruct:travelGlove>);
-	recipes.remove(<TConstruct:travelBoots>);
-	recipes.remove(<TConstruct:travelWings>);
-	recipes.remove(<TConstruct:travelVest>);
-	recipes.remove(<TConstruct:travelGoggles>);
+	//recipes.remove(<TConstruct:travelBelt>);
+	//recipes.remove(<TConstruct:travelGlove>);
+	//recipes.remove(<TConstruct:travelBoots>);
+	//recipes.remove(<TConstruct:travelWings>);
+	//recipes.remove(<TConstruct:travelVest>);
+	//recipes.remove(<TConstruct:travelGoggles>);
 
 	recipes.remove(<TConstruct:materials:26>);
 	recipes.remove(<TConstruct:materials:7>);
@@ -396,7 +396,7 @@
 	recipes.addShaped(<TConstruct:materials:26>, [[null, <TConstruct:materials:25>, null], [<TConstruct:materials:25>, <ore:gemNormal>, <TConstruct:materials:25>], [null, <TConstruct:materials:25>, null]]);
 	recipes.addShaped(<TConstruct:materials:25>, [[<terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>], [<terrafirmacraft:item.SilkCloth>, <ttfcmat:item.metalNuggets:10>, <terrafirmacraft:item.SilkCloth>], [<terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>]]);
 	recipes.addShaped(<TConstruct:materials:25>, [[<terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>], [<terrafirmacraft:item.SilkCloth>, <ttfcmat:item.metalNuggets:9>, <terrafirmacraft:item.SilkCloth>], [<terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>, <terrafirmacraft:item.SilkCloth>]]);
-	recipes.addShaped(<TConstruct:materials:6>, [[<plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>], [<plantmegapack:groundcoverMoss>, <ore:itemKnife>.transformDamage(1), <plantmegapack:groundcoverMoss>], [<plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>]]);
+	//recipes.addShaped(<TConstruct:materials:6>, [[<plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>], [<plantmegapack:groundcoverMoss>, <ore:itemKnife>.transformDamage(1), <plantmegapack:groundcoverMoss>], [<plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>, <plantmegapack:groundcoverMoss>]]);
 	recipes.addShaped(<TConstruct:materials:6>, [[<ttfcapi:mossigexcobble>, <ttfcapi:mossigexcobble>, <ttfcapi:mossigexcobble>], [<ttfcapi:mossigexcobble>, <ore:itemKnife>.transformDamage(1), <ttfcapi:mossigexcobble>], [<ttfcapi:mossigexcobble>, <ttfcapi:mossigexcobble>, <ttfcapi:mossigexcobble>]]);
 	recipes.addShaped(<TConstruct:materials:6>, [[<ttfcapi:mossigexcobble:1>, <ttfcapi:mossigexcobble:1>, <ttfcapi:mossigexcobble:1>], [<ttfcapi:mossigexcobble:1>, <ore:itemKnife>.transformDamage(1), <ttfcapi:mossigexcobble:1>], [<ttfcapi:mossigexcobble:1>, <ttfcapi:mossigexcobble:1>, <ttfcapi:mossigexcobble:1>]]);
 	recipes.addShaped(<TConstruct:materials:6>, [[<ttfcapi:mossigexcobble:2>, <ttfcapi:mossigexcobble:2>, <ttfcapi:mossigexcobble:2>], [<ttfcapi:mossigexcobble:2>, <ore:itemKnife>.transformDamage(1), <ttfcapi:mossigexcobble:2>], [<ttfcapi:mossigexcobble:2>, <ttfcapi:mossigexcobble:2>, <ttfcapi:mossigexcobble:2>]]);

@@ -13,6 +13,11 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<HatStand:hats.addon.hatstands.block>);
+
+	recipes.remove(<eplus:item.tableUpgrade>);
+	recipes.remove(<eplus:tile.advancedEnchantmentTable>);
+	recipes.remove(<etfuturum:crying_obsidian>);
 	recipes.remove(<tfcprimitivetech:itemWoodenPress>);
 	recipes.remove(<minecraft:fermented_spider_eye>);
 	recipes.remove(<minecraft:speckled_melon>);
@@ -103,10 +108,6 @@
 	recipes.remove(<tradeboothmod:blockTradeBoothStorage:1>);
 	recipes.remove(<tradeboothmod:blockTradeBoothStorage>);
 	recipes.remove(<tradeboothmod:itemTradeBoothTop>);
-	recipes.remove(<exoticbirds:egg_sorter>);
-	recipes.remove(<exoticbirds:egg_incubator>);
-	//recipes.remove(<exoticbirds:phoenix_egg>);
-	recipes.remove(<exoticbirds:nest>);
 	recipes.remove(<RopesPlus:itemHookshot>);
 	recipes.remove(<RopesPlus:blockZiplineAnchor>);
 	recipes.remove(<RopesPlus:itemGrapplingHook>);
@@ -116,48 +117,13 @@
 	recipes.remove(<RopesPlus:WarpArrow>);
 	recipes.remove(<RopesPlus:PenetratingArrow>);
 	recipes.remove(<RopesPlus:RedstonetorchArrow>);
-	recipes.remove(<RopesPlus:DirtArrow>);
+	//recipes.remove(<RopesPlus:DirtArrow>);
 	recipes.remove(<RopesPlus:ExplodingArrow>);
 	recipes.remove(<RopesPlus:RopeArrow>);
 	recipes.remove(<RopesPlus:SlimeArrow>);
-	recipes.remove(<RopesPlus:SeedArrow>);
+	//recipes.remove(<RopesPlus:SeedArrow>);
 	recipes.remove(<RopesPlus:TorchArrow>);
 	recipes.remove(<RopesPlus:FireArrow>);
-	recipes.remove(<OpenBlocks:xpdrain>);
-	recipes.remove(<OpenBlocks:itemDropper>);
-	recipes.remove(<OpenBlocks:blockPlacer>);
-	recipes.remove(<OpenBlocks:blockbreaker>);
-	recipes.remove(<OpenBlocks:canvas>);
-	recipes.remove(<OpenBlocks:paintmixer>);
-	recipes.remove(<OpenBlocks:sprinkler>);
-	recipes.remove(<OpenBlocks:beartrap>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary:1>);
-	recipes.remove(<OpenBlocks:imaginary>);
-	recipes.remove(<OpenBlocks:xpshower>);
-	recipes.remove(<OpenBlocks:goldenegg>);
-	recipes.remove(<OpenBlocks:generic:7>);
-	recipes.remove(<OpenBlocks:generic:6>);
-	recipes.remove(<OpenBlocks:generic:5>);
-	recipes.remove(<OpenBlocks:generic:3>);
-	recipes.remove(<OpenBlocks:generic:2>);
-	recipes.remove(<OpenBlocks:generic:1>);
-	recipes.remove(<OpenBlocks:drawingtable>);
-	recipes.remove(<OpenBlocks:ropeladder>);
-	recipes.remove(<OpenBlocks:village_highlighter>);
-	recipes.remove(<OpenBlocks:autoanvil>);
-	recipes.remove(<OpenBlocks:autoenchantmenttable>);
-	recipes.remove(<OpenBlocks:sponge>);
-	recipes.remove(<OpenBlocks:tank>);
-	recipes.remove(<OpenBlocks:builder_guide>);
-	recipes.remove(<OpenBlocks:guide>);
-	recipes.remove(<OpenBlocks:generic>);
 	//recipes.remove(<mysticworld:staffparts>);
 	//recipes.remove(<mysticworld:staffparts:1>);
 	//recipes.remove(<mysticworld:staffparts:2>);
@@ -344,6 +310,7 @@
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+	recipes.addShapeless(<TConstruct:bowstring:2>, [<Natura:barleyFood:7>, <Natura:barleyFood:7>, <Natura:barleyFood:7>, <terrafirmacraft:item.Spindle>.transformDamage(1)]);
 	
 	recipes.addShapeless(<customitems:rye_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Rye Whole>.withTag({foodWeight: 2.0 as float})]);
 	recipes.addShapeless(<customitems:maize_hay_bale>, [<terrafirmacraft:item.Rope>, <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float}), <terrafirmacraft:item.Maize Ear>.withTag({foodWeight: 2.0 as float})]);
@@ -488,7 +455,6 @@
 	//recipes.addShapeless(<BuildCraft|Builders:constructionMarkerBlock>, [<ore:gearGold>, <minecraft:redstone_torch>]);
 	//recipes.addShapeless(<BuildCraft|Core:markerBlock>, [<ore:dustLapis>, <minecraft:redstone_torch>]);
 	recipes.addShapeless(<minecraft:glowstone_dust> * 1, [<terrafirmacraft:item.Ore:19>, <ore:itemHammer>.transformDamage(1)]);
-	recipes.addShapeless(<terrafirmacraft:item.Fertilizer> * 4, [<minecraft:rotten_flesh>, <terrafirmacraft:item.Straw>, <exoticbirds:eggshell>, <minecraft:rotten_flesh>]);
 	//recipes.addShapeless(<zipline:Rope>, [<ore:materialString>, <ore:materialString>]);
 	//recipes.addShapeless(<zipline:ArrowRope>, [<ore:itemArrow>, <zipline:Rope>, <zipline:Rope>, <zipline:Rope>, <zipline:Rope>, <zipline:Rope>, <zipline:Rope>, <zipline:Rope>, <zipline:Rope>]);
 	//recipes.addShapeless(<ArchimedesShips:buffer>, [<ArchimedesShips:floater>, <ore:dyeBlack>]);
@@ -575,7 +541,10 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
-	
+recipes.addShaped(<HatStand:hats.addon.hatstands.block>, [[<ore:stickWood>], [<minecraft:wooden_pressure_plate>]]);
+
+	recipes.addShaped(<minecraft:enchanting_table>, [[<terrafirmacraft:item.Ruby:3>, <minecraft:writable_book>, <terrafirmacraft:item.Emerald:3>], [<ore:plateDoubleGold>, <ore:gemExquisite>, <ore:plateDoubleGold>], [<etfuturum:crying_obsidian>, <etfuturum:crying_obsidian>, <etfuturum:crying_obsidian>]]);	
+	recipes.addShaped(<etfuturum:crying_obsidian>, [[<minecraft:obsidian>, <ore:dustLapis>, <minecraft:obsidian>], [<ore:dustLapis>, <minecraft:obsidian>, <ore:dustLapis>], [<minecraft:obsidian>, <ore:dustLapis>, <minecraft:obsidian>]]);
 	recipes.addShaped(<tfcprimitivetech:itemWoodenPress>, [[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
 	recipes.addShaped(<DecorationsTFC:Lantern.Copper>, [[<ore:stickWood>, <ore:paneGlass>, <ore:materialString>], [<ore:dustGlowstone>, <DecorationsTFC:item.LanternCore.Copper>, <ore:paneGlass>], [<ore:stickWood>, <ore:paneGlass>, <ore:materialString>]]);
@@ -593,7 +562,6 @@
 
 	recipes.addShaped(<minecraft:speckled_melon>, [[<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>], [<ore:nuggetGold>, <cookingwithtfc:item.SlicedWatermelon>.withTag({foodWeight: 1.0 as float}), <ore:nuggetGold>], [<ore:nuggetGold>, <ore:nuggetGold>, <ore:nuggetGold>]]);
 	recipes.addShaped(<minecraft:brewing_stand>, [[null, <tfcudarymod:item.Copper Rod:*>, null], [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]]);
-	recipes.addShaped(<exoticbirds:phoenix_egg>, [[<exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>], [<exoticbirds:phoenix_dust>, <terrafirmacraft:item.egg:*>, <exoticbirds:phoenix_dust>], [<exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>, <exoticbirds:phoenix_dust>]]);
 
 	recipes.addShaped(<customitems:bark_rope>, [[<customitems:bark_fibre>, <customitems:bark_fibre>], [<customitems:bark_fibre>, <customitems:bark_fibre>]]);
 	recipes.addShaped(<harvestcraft:presser>, [[<ore:plateDoubleSteel>, <minecraft:piston>, <ore:plateDoubleSteel>], [<ore:plateDoubleSteel>, null, <ore:plateDoubleSteel>], [<tfcadditions:item.Plank Planed:*>, <minecraft:piston>, <tfcadditions:item.Plank Planed:*>]]);
@@ -799,9 +767,6 @@
 	recipes.addShaped(<tradeboothmod:blockTradeBoothStorage:2>, [[<terrafirmacraft:item.SinglePlank:2>, <terrafirmacraft:item.SinglePlank:2>, <terrafirmacraft:item.SinglePlank:2>], [<terrafirmacraft:item.SinglePlank:2>, <ore:plateSteel>, <terrafirmacraft:item.SinglePlank:2>], [<terrafirmacraft:item.SinglePlank:2>, <terrafirmacraft:item.SinglePlank:2>, <terrafirmacraft:item.SinglePlank:2>]]);
 	recipes.addShaped(<tradeboothmod:blockTradeBoothStorage:1>, [[<terrafirmacraft:item.SinglePlank:10>, <terrafirmacraft:item.SinglePlank:10>, <terrafirmacraft:item.SinglePlank:10>], [<terrafirmacraft:item.SinglePlank:10>, <ore:plateSteel>, <terrafirmacraft:item.SinglePlank:10>], [<terrafirmacraft:item.SinglePlank:10>, <terrafirmacraft:item.SinglePlank:10>, <terrafirmacraft:item.SinglePlank:10>]]);
 	recipes.addShaped(<tradeboothmod:blockTradeBoothStorage>, [[<terrafirmacraft:item.SinglePlank>, <terrafirmacraft:item.SinglePlank>, <terrafirmacraft:item.SinglePlank>], [<terrafirmacraft:item.SinglePlank>, <ore:plateSteel>, <terrafirmacraft:item.SinglePlank>], [<terrafirmacraft:item.SinglePlank>, <terrafirmacraft:item.SinglePlank>, <terrafirmacraft:item.SinglePlank>]]);
-	recipes.addShaped(<exoticbirds:egg_sorter>, [[<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>], [<ore:ingotSteel>, <ore:bucketEmpty>, <ore:ingotSteel>], [<ore:ingotSteel>, <minecraft:writable_book>, <ore:ingotSteel>]]);
-	recipes.addShaped(<exoticbirds:egg_incubator>, [[<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>], [<ore:ingotSteel>, <ore:bucketEmpty>, <ore:ingotSteel>], [<ore:ingotSteel>, <ore:gemCharcoal>, <ore:ingotSteel>]]);
-	recipes.addShaped(<exoticbirds:nest>, [[<terrafirmastuff:item.stickBunch:*>, null, <terrafirmastuff:item.stickBunch:*>], [null, <terrafirmastuff:item.stickBunch:*>, null]]);
 	recipes.addShaped(<minecraft:record_11>, [[null, <ore:plateBlackSteel>, null], [<ore:plateBlackSteel>, <minecraft:gunpowder:*>, <ore:plateBlackSteel>], [null, <ore:plateBlackSteel>, null]]);
 	recipes.addShaped(<minecraft:record_wait>, [[null, <ore:plateBlackSteel>, null], [<ore:plateBlackSteel>, <ore:dyeLightBlue>, <ore:plateBlackSteel>], [null, <ore:plateBlackSteel>, null]]);
 	recipes.addShaped(<minecraft:record_ward>, [[null, <ore:plateBlackSteel>, null], [<ore:plateBlackSteel>, <ore:dyeCyan>, <ore:plateBlackSteel>], [null, <ore:plateBlackSteel>, null]]);
@@ -872,7 +837,6 @@
 	recipes.addShaped(<cuchaz.ships:blockShip:2>, [[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>], [<ore:plateCopper>, <tfcm:item.CaseinGlue>, <ore:plateCopper>], [<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>]]);
 	recipes.addShaped(<cuchaz.ships:blockShip:1>, [[<ore:plateTin>, <ore:plateTin>, <ore:plateTin>], [<ore:plateTin>, <tfcm:item.CaseinGlue>, <ore:plateTin>], [<ore:plateTin>, <ore:plateTin>, <ore:plateTin>]]);
 	recipes.addShaped(<cuchaz.ships:blockShip>, [[<ore:woodLumber>, <ore:woodLumber>, <ore:woodLumber>], [<ore:woodLumber>, <tfcm:item.CaseinGlue>, <ore:woodLumber>], [<ore:woodLumber>, <ore:woodLumber>, <ore:woodLumber>]]);
-	recipes.addShaped(<eplus:tile.advancedEnchantmentTable>, [[null, <minecraft:writable_book>, null], [<ore:plateGold>, <ore:gemExquisite>, <ore:plateGold>], [<terrafirmacraft:StoneIgExSmooth:1>, <terrafirmacraft:StoneIgExSmooth:1>, <terrafirmacraft:StoneIgExSmooth:1>]]);
 	//recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone> * 8, [[<ore:plateLead>, <terrafirmacraft:item.ItemStoneBrick>, <ore:plateLead>]]);
 	//recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay> * 8, [[<ore:plateTin>, <ore:blockGlassColorless>, <ore:plateTin>]]);
 	//recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone> * 8, [[<ore:plateSilver>, <ore:blockGlassColorless>, <ore:plateSilver>]]);

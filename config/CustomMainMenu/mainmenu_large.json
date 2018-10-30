@@ -1,6 +1,15 @@
 {
     "images":
     {     
+        "menu":
+        {
+            "image" : "mainmenu:textures/menu-lavender&lilac-layer-hanging.png",
+            "posX" : -250,
+            "posY" : -1500,
+            "width" : 500,
+            "height" : 3000,
+            "alignment" : "center"
+        }
     },
    
     "buttons":
@@ -271,16 +280,16 @@
     {
         "splash-text":
         {
-            "posX" : 250,
-            "posY" : -140,
+            "posX" : -150,
+            "posY" : -55,
             "color" : -256,
-            "alignment" : "left_center",
+            "alignment" : "center",
             "texts" : "file:mainmenu:texts/splashes.txt"
         },
 		
         "background":
         {
-            "image" : "mainmenu:textures/menu-lavender&lilac.png",
+            "image" : "mainmenu:textures/PixelForestNarrow.png",
             "mode" : "stretch"
         }
     }

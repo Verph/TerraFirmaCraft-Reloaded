@@ -1,6 +1,39 @@
 {
   "_name": "Ghast",
-  "drops": [],
+  "drops": [
+            {
+              "function": "remove",
+              "id": "minecraft:ghast_tear"
+			},
+            {
+              "function": "add",
+              "id": "terrafirmacraft:item.Powder",
+			  "damage": 3,
+              "count": "1~3"
+			},
+            {
+              "function": "add",
+              "id": "terrafirmacraft:item.Powder",
+			  "damage": 4,
+              "count": "1~3"
+		}
+	],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+		{
+			"_comment": "increase the spider's attack strength",
+			"function": "modifier",
+			"attribute": "generic.attackDamage",
+			"value": "30~300",
+			"override": true
+		},
+		{
+			"_comment": "increase the mobs' max health",
+			"function": "modifier",
+			"attribute": "generic.maxHealth",
+			"value": 1000,
+			"override": true,
+			"operator": 1
+		}
+	]
 }

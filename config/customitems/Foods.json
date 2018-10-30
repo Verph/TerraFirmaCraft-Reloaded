@@ -22,22 +22,6 @@
             "alwaysEdible": "true"
         },
 		{
-			"name": "exoticbirds:birdmeat_small",
-            "alwaysEdible": "true"
-        },
-		{
-			"name": "exoticbirds:cooked_birdmeat_small",
-            "alwaysEdible": "true"
-        },
-		{
-			"name": "exoticbirds:birdmeat_large",
-            "alwaysEdible": "true"
-        },
-		{
-			"name": "exoticbirds:cooked_birdmeat_large",
-            "alwaysEdible": "true"
-        },
-		{
 			"name": "minecraft:chicken",
             "alwaysEdible": "true"
         },
@@ -71,10 +55,6 @@
         },
 		{
 			"name": "harvestcraft:creamcookieItem",
-            "alwaysEdible": "true"
-        },
-		{
-			"name": "plantmegapack:foodCookiePeanutButter",
             "alwaysEdible": "true"
         }
     ]

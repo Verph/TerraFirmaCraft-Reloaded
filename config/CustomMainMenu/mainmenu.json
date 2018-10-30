@@ -1,6 +1,15 @@
 {
     "images":
-    {        
+    {     
+        "menu":
+        {
+            "image" : "mainmenu:textures/menu-lavender&lilac-layer-hanging.png",
+            "posX" : -250,
+            "posY" : -1500,
+            "width" : 500,
+            "height" : 3000,
+            "alignment" : "center"
+        }
     },
    
     "buttons":
@@ -262,7 +271,7 @@
             "posX" : 20,
             "posY" : -10,
             "color" : -1,
-			"fontSize" : 0.5,
+			"fontSize" : 0.7,
             "alignment" : "bottom_left"
         }
     },
@@ -271,16 +280,16 @@
     {
         "splash-text":
         {
-            "posX" : 370,
-            "posY" : 320,
+            "posX" : -150,
+            "posY" : -55,
             "color" : -256,
-            "alignment" : "left_top",
+            "alignment" : "center",
             "texts" : "file:mainmenu:texts/splashes.txt"
         },
 		
         "background":
         {
-            "image" : "mainmenu:textures/menu-lavender&lilac.png",
+            "image" : "mainmenu:textures/PixelForestNarrow.png",
             "mode" : "stretch"
         }
     }

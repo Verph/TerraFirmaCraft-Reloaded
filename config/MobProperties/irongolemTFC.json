@@ -1,6 +1,13 @@
 {
   "_name": "irongolemTFC",
-  "drops": [],
+  "drops": [
+            {
+              "function": "add",
+              "id": "minecraft:double_plant",
+			  "damage": 4,
+              "count": "0~2"
+		}
+	],
   "pre_stats": [],
   "stats": []
 }
