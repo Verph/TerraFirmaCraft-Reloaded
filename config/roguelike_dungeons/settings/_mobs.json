@@ -1,0 +1,164 @@
+{
+	"name" : "mobs",
+	"levels" : {
+		"0" : {
+			"spawners" : {				
+				"SPIDER" : [
+					{
+						"name" : "spiderTFC",
+						"equip" : false
+					}
+				],
+				"BEAR" : [
+					{
+						"name" : "bearTFC",
+						"equip" : false
+					}
+				],
+				"ZOMBIE" : [
+					{
+						"name" : "zombieTFC",
+						"equip" : false
+					}
+				],
+				"SKELETON" : [
+					{
+						"name" : "skeletonTFC",
+						"equip" : false
+					}
+				],
+				"SILVERFISH" : [
+					{
+						"name" : "silverfishTFC",
+						"equip" : false
+					}
+				]
+				
+			}
+		},
+		"1" : {
+			"spawners" : {	
+				"SPIDER" : [
+					{"name" : "spiderTFC",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "zombieTFC",
+						"equip" : true}
+				],
+				"SKELETON" : [
+					{
+						"name" : "skeletonTFC",
+						"equip" : false
+					}
+				],
+				"WITCH" : [
+					{
+						"name" : "Witch",
+						"equip" : false
+					}
+				]
+			}
+		},
+		"2" : {
+			"spawners" : {
+				"SPIDER" : [
+					{"name" : "spiderTFC",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "zombieTFC",
+						"equip" : true}
+				],
+				"SKELETON" : [
+					{"name" : "skeletonTFC",
+						"equip" : false}
+				],
+				"CREEPER" : [
+					{"name" : "creeperTFC",
+						"equip" : false}
+				],				
+				"WITCH" : [
+					{"name" : "Witch",
+						"equip" : false}
+				],
+				"CAVESPIDER" : [
+					{"name" : "caveSpiderTFC",
+						"equip" : false}
+				]
+			}
+		},
+		"3" : {
+			"spawners" : {
+				"FLAMESPIDERBABY" : [
+					{"name" : "FlameSpiderBaby",
+						"equip" : false}
+				],
+				"SPIDER" : [
+					{"name" : "spiderTFC",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "zombieTFC",
+						"equip" : true}
+				],
+				"SKELETON" : [
+					{"name" : "skeletonTFC",
+						"equip" : true}
+				],
+				"ENDERMAN" : [
+					{"name" : "endermanTFC",
+						"equip" : false}
+				],
+				"SILVERFISH" : [
+					{"name" : "silverfishTFC",
+						"equip" : false}
+				],
+				"NITROCREEPER" : [
+					{"name" : "NitroCreeper",
+						"equip" : false}
+				],				
+				"WITCH" : [
+					{"name" : "Witch",
+						"equip" : false}
+				]
+			}
+		},
+		"4" : {
+			"spawners" : {
+				"FLAMESPIDER" : [
+					{"name" : "FlameSpider",
+						"equip" : false}
+				],
+				"IMP" : [
+					{"name" : "Imp",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "zombieTFC",
+						"equip" : true}
+				],
+				"SKELETON" : [
+					{"name" : "skeletonTFC",
+						"equip" : true}
+				],
+				"ENDERMAN" : [
+					{"name" : "endermanTFC",
+						"equip" : false}
+				],
+				"SKELETONMAGE" : [
+					{"name" : "SkeletonMage",
+						"equip" : false}
+				],
+				"NITROCREEPER" : [
+					{"name" : "NitroCreeper",
+						"equip" : false}
+				],
+				"CAVESPIDER" : [
+					{"name" : "caveSpiderTFC",
+						"equip" : false}
+				]
+			}
+		}
+	}
+}

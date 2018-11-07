@@ -2,5 +2,21 @@
   "_name": "Blaze",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+    {
+    "_comment": "increase the blaze's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 10~70,
+    "override": true
+    },
+    {
+    "_comment": "increase the blaze's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 2000,
+	"override": true,
+    "operator": 1
+    }
+  ]
 }

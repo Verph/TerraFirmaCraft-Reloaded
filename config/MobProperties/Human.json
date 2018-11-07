@@ -1,0 +1,26 @@
+{
+  "_name": "Human",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+		{
+			"_comment": "Herobrine",
+			"function": "all",
+			"count": 0.5,
+			"functions": [
+				{
+				"function": "name",
+				"value": "Herobrine"
+				}
+			]
+		},
+		{
+			"_comment": "increase the Herobrine's max health",
+			"function": "modifier",
+			"attribute": "generic.maxHealth",
+			"value": 3000,
+			"override": true,
+			"operator": 1
+		}
+	]
+}

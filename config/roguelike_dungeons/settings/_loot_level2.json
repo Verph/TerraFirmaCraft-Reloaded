@@ -1,0 +1,126 @@
+{
+	"name" : "loot2",
+	"loot_rules" : [
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "tfcm:item.BlackBronze_Chain_Helmet", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.BlackBronze_Chain_Chestplate", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.BlackBronze_Chain_Greaves", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Helmet", "ench" : 10}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Chestplate", "ench" : 10}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Greaves", "ench" : 10}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Boots", "ench" : 10}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Helmet", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Chestplate", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Greaves", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Boots", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "tfcm:item.WroughtIron_Chain_Helmet", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.WroughtIron_Chain_Chestplate", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.WroughtIron_Chain_Greaves", "ench" : 10}, "weight" : 1}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 3
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.Copper Axe", "ench" : 5}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Javelin", "ench" : 5}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Sword", "ench" : 5}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Mace", "ench" : 5}, "weight" : 5},
+				{"data" : {"name" : "tfcm:item.Halberd_Copper", "ench" : 5}, "weight" : 5},
+				{"data" : {"name" : "tfcm:item.WarHammer_Copper", "ench" : 5}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Mace", "ench" : 10}, "weight" : 10},				
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Axe", "ench" : 10}, "weight" : 10},				
+				{"data" : {"name" : "tfcm:item.Halberd_BlackBronze", "ench" : 10}, "weight" : 10},				
+				{"data" : {"name" : "tfcm:item.WarHammer_BlackBronze", "ench" : 10}, "weight" : 10},
+				{"data" : {"name" : "tfcm:item.Poniard_BlackBronze", "ench" : 10}, "weight" : 10},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Sword", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Mace", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Hammer", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.Halberd_WroughtIron", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.WarHammer_WroughtIron", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.Poniard_WroughtIron", "ench" : 10}, "weight" : 1}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.Copper Pick", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Axe", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper ProPick", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Pick", "ench" : 10}, "weight" : 4},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Axe", "ench" : 10}, "weight" : 4},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Shovel", "ench" : 10}, "weight" : 4},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Pick", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Axe", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Shovel", "ench" : 10}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Chisel", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Saw", "ench" : 10}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Wrought Iron Scythe", "ench" : 10}, "weight" : 1}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 3
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.coal", "min" : 1, "max" : 3}, "weight" : 10},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 1 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 2 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 3 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 4 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 5 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 6 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 7 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 8 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 9 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 10 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ruby", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Sapphire", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Emerald", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Topaz", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Tourmaline", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Diamond", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 6
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.TFC Leather"}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Barley", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Oat", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Cabbage", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Tomato", "min" : 1, "max" : 3}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Soybean", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:BerryBush", "meta" : 2, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:BerryBush", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:BerryBush", "meta" : 8, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "minecraft:potion", "meta" : 8193 }, "weight" : 1},
+				{"data" : {"name" : "minecraft:potion", "meta" : 8194 }, "weight" : 1},
+				{"data" : {"name" : "minecraft:potion", "meta" : 8227 }, "weight" : 1},
+				{"data" : {"name" : "minecraft:potion", "meta" : 8261 }, "weight" : 1},
+				{"data" : {"name" : "minecraft:potion", "meta" : 8230 }, "weight" : 1},
+				{"data" : {"name" : "minecraft:potion", "meta" : 8201 }, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.arrow", "min" : 4, "max" : 10}, "weight" : 2 },
+				{"data" : {"name" : "OpenBlocks:sleepingBag"}, "weight" : 1},
+				{"data" : {"name" : "bone"}, "weight" : 5},
+				{"data" : {"name" : "redstone"}, "weight" : 3},
+				{"data" : {"name" : "glowstone_dust"}, "weight" : 5},
+				{"data" : {"name" : "gunpowder", "min" : 1, "max" : 3}, "weight" : 1}
+			],
+			"level" : 2,
+			"each" : true,
+			"quantity" : 6
+		}
+	]
+}

@@ -1,6 +1,13 @@
 {
   "_name": "skeletonTFC",
-  "drops": [],
+  "drops": [
+            {
+              "function": "add",
+              "id": "TConstruct:materials",
+			  "damage": 8,
+              "count": "0.2"
+			}
+	],
   "pre_stats": [],
   "stats": []
 }

@@ -68,7 +68,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "mc21.fadehost.com:28258"
+                "ip" : "37.59.222.55:25566"
             },
             "shadow" : false,
 			"hoverSound" : "menu:hover",

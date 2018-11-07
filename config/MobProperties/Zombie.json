@@ -7,14 +7,14 @@
     "_comment": "increase the zombie's attack strength",
     "function": "modifier",
     "attribute": "generic.attackDamage",
-    "value": "30~70",
+    "value": "30~100",
     "override": true
     },
     {
     "_comment": "increase the zombie's max health",
     "function": "modifier",
     "attribute": "generic.maxHealth",
-    "value": 500,
+    "value": 1000,
 	"override": true,
     "operator": 1
     }

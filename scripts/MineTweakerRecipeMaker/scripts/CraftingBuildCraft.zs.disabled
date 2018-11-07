@@ -1,0 +1,115 @@
+//Buildcraft Recipes	
+
+//Remove Recipes
+
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone> * 8);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald>);
+	recipes.remove(<BuildCraft|Transport:item.buildcraftPipe.pipeitemswood>);
+	recipes.remove(<BuildCraft|Core:diamondGearItem>);
+	recipes.remove(<BuildCraft|Core:goldGearItem>);
+	recipes.remove(<BuildCraft|Core:ironGearItem>);
+	recipes.remove(<BuildCraft|Core:stoneGearItem>);
+	recipes.remove(<BuildCraft|Core:woodenGearItem>);
+	recipes.remove(<BuildCraft|Transport:pipeWaterproof>);
+	recipes.remove(<BuildCraft|Builders:blueprintItem>);
+	recipes.remove(<BuildCraft|Core:paintbrush>);
+	recipes.remove(<BuildCraft|Factory:floodGateBlock>);
+	recipes.remove(<BuildCraft|Factory:pumpBlock>);
+	recipes.remove(<BuildCraft|Factory:miningWellBlock>);
+	recipes.remove(<BuildCraft|Robotics:requester>);
+	recipes.remove(<BuildCraft|Robotics:zonePlan>);
+	recipes.remove(<BuildCraft|Silicon:packagerBlock>);
+	recipes.remove(<BuildCraft|Silicon:laserTableBlock:5>);
+	recipes.remove(<BuildCraft|Silicon:laserTableBlock:1>);
+	recipes.remove(<BuildCraft|Transport:filteredBufferBlock>);
+	recipes.remove(<BuildCraft|Builders:constructionMarkerBlock>);
+	recipes.remove(<BuildCraft|Builders:libraryBlock>);
+	recipes.remove(<BuildCraft|Builders:architectBlock>);
+	recipes.remove(<BuildCraft|Builders:builderBlock>);
+	recipes.remove(<BuildCraft|Builders:fillerBlock>);
+	recipes.remove(<BuildCraft|Builders:machineBlock>);
+	recipes.remove(<BuildCraft|Core:pathMarkerBlock>);
+	recipes.remove(<BuildCraft|Core:markerBlock>);
+	recipes.remove(<BuildCraft|Core:engineBlock:2>);
+	recipes.remove(<BuildCraft|Core:engineBlock:1>);
+	recipes.remove(<BuildCraft|Core:engineBlock>);
+	
+//Shapeless Recipes
+	
+	recipes.addShapeless(<BuildCraft|Transport:pipeWaterproof>, [<Forestry:propolis:1>]);
+	recipes.addShapeless(<BuildCraft|Transport:pipeWaterproof>, [<ore:dyeGreen>, <ore:lumpClay>]);
+	recipes.addShapeless(<BuildCraft|Builders:constructionMarkerBlock>, [<ore:gearGold>, <minecraft:redstone_torch>]);
+	recipes.addShapeless(<BuildCraft|Core:markerBlock>, [<ore:dustLapis>, <minecraft:redstone_torch>]);
+	
+//Shaped Recipes
+	
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone> * 8, [[<ore:plateLead>, <terrafirmacraft:item.ItemStoneBrick>, <ore:plateLead>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay> * 8, [[<ore:plateTin>, <ore:blockGlassColorless>, <ore:plateTin>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone> * 8, [[<ore:plateSilver>, <ore:blockGlassColorless>, <ore:plateSilver>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli> * 8, [[<ore:dustLapis>, <ore:blockGlassColorless>, <ore:plateBismuthBronze>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli> * 8, [[<ore:dustLapis>, <ore:blockGlassColorless>, <ore:plateBismuth>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis> * 8, [[<ore:dustLapis>, <ore:blockGlassColorless>, <ore:dustLapis>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian> * 8, [[<ore:plateBlackBronze>, <ore:blockGlassColorless>, <ore:plateBlackBronze>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond> * 8, [[<ore:plateBismuth>, <ore:blockGlassColorless>, <ore:plateBismuth>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold> * 8, [[<ore:plateGold>, <ore:blockGlassColorless>, <ore:plateGold>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron> * 8, [[<ore:plateWroughtIron>, <ore:blockGlassColorless>, <ore:plateWroughtIron>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz> * 8, [[<ore:plateZinc>, <ore:blockGlassColorless>, <ore:plateZinc>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone> * 8, [[<ore:plateNickel>, <ore:blockGlassColorless>, <ore:plateNickel>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone> * 8, [[<ore:plateLead>, <ore:blockGlassColorless>, <ore:plateLead>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald> * 8, [[<ore:plateBismuthBronze>, <ore:blockGlassColorless>, <ore:plateBismuthBronze>]]);
+	recipes.addShaped(<BuildCraft|Transport:item.buildcraftPipe.pipeitemswood> * 8, [[<ore:plateCopper>, <ore:blockGlassColorless>, <ore:plateCopper>]]);
+	recipes.addShaped(<BuildCraft|Core:diamondGearItem>, [[null, <ore:plateBlueSteel>, null], [<ore:plateBlueSteel>, <ore:gearGold>, <ore:plateBlueSteel>], [null, <ore:plateBlueSteel>, null]]);
+	recipes.addShaped(<BuildCraft|Core:goldGearItem>, [[null, <ore:plateGold>, null], [<ore:plateGold>, <ore:gearIron>, <ore:plateGold>], [null, <ore:plateGold>, null]]);
+	recipes.addShaped(<BuildCraft|Core:ironGearItem>, [[null, <ore:plateSteel>, null], [<ore:plateSteel>, <ore:gearStone>, <ore:plateSteel>], [null, <ore:plateSteel>, null]]);
+	recipes.addShaped(<BuildCraft|Core:stoneGearItem>, [[null, <ore:plateWroughtIron>, null], [<ore:plateWroughtIron>, <ore:gearWood>, <ore:plateWroughtIron>], [null, <ore:plateWroughtIron>, null]]);
+	recipes.addShaped(<BuildCraft|Core:woodenGearItem>, [[null, <ore:plateCopper>, null], [<ore:plateCopper>, null, <ore:plateCopper>], [null, <ore:plateCopper>, null]]);
+	recipes.addShaped(<BuildCraft|Builders:blueprintItem>, [[<minecraft:paper>, <minecraft:paper>, <minecraft:paper>], [<minecraft:paper>, <ore:dustLapis>, <minecraft:paper>], [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]]);
+	recipes.addShaped(<BuildCraft|Core:paintbrush>, [[null, <ore:materialString>, <minecraft:wool>], [null, <ore:gearWood>, <ore:materialString>], [<ore:stickWood>, null, null]]);
+	recipes.addShaped(<BuildCraft|Factory:floodGateBlock>, [[<ore:plateWroughtIron>, <ore:gearIron>, <ore:plateWroughtIron>], [<minecraft:iron_bars>, <BuildCraft|Factory:tankBlock>, <minecraft:iron_bars>], [<ore:plateWroughtIron>, <minecraft:iron_bars>, <ore:plateWroughtIron>]]);
+	recipes.addShaped(<BuildCraft|Factory:pumpBlock>, [[<ore:plateWroughtIron>, <ore:dustRedstone>, <ore:plateWroughtIron>], [<ore:plateWroughtIron>, <ore:gearIron>, <ore:plateWroughtIron>], [<BuildCraft|Factory:tankBlock>, <ore:plateWroughtIron>, <BuildCraft|Factory:tankBlock>]]);
+	recipes.addShaped(<BuildCraft|Factory:miningWellBlock>, [[<ore:plateWroughtIron>, <ore:dustRedstone>, <ore:plateWroughtIron>], [<ore:plateWroughtIron>, <ore:gearIron>, <ore:plateWroughtIron>], [<ore:plateWroughtIron>, <terrafirmacraft:item.Steel Pick>, <ore:plateWroughtIron>]]);
+	recipes.addShaped(<BuildCraft|Robotics:requester>, [[<ore:plateWroughtIron>, <minecraft:piston>, <ore:plateWroughtIron>], [<ore:gearIron>, <ore:chestWood>, <ore:gearIron>], [<ore:plateWroughtIron>, <minecraft:redstone>, <ore:plateWroughtIron>]]);
+	recipes.addShaped(<BuildCraft|Robotics:zonePlan>, [[<ore:plateWroughtIron>, <minecraft:redstone>, <ore:plateWroughtIron>], [<ore:gearGold>, <minecraft:map>, <ore:gearGold>], [<ore:plateWroughtIron>, <ore:gearDiamond>, <ore:plateWroughtIron>]]);
+	recipes.addShaped(<BuildCraft|Silicon:packagerBlock>, [[null, <ore:plateDoubleWroughtIron>, null], [<ore:plateDoubleWroughtIron>, <ore:craftingTableWood>, <ore:plateDoubleWroughtIron>], [null, <minecraft:piston>, null]]);
+	recipes.addShaped(<BuildCraft|Silicon:laserTableBlock:5>, [[<minecraft:obsidian>, <ore:craftingTableWood>, <minecraft:obsidian>], [<minecraft:obsidian>, <ore:chipsetRed>, <minecraft:obsidian>], [<minecraft:obsidian>, <BuildCraft|Core:goldGearItem>, <minecraft:obsidian>]]);
+	recipes.addShaped(<BuildCraft|Silicon:laserTableBlock:1>, [[<minecraft:obsidian>, <ore:craftingTableWood>, <minecraft:obsidian>], [<minecraft:obsidian>, <ore:chestWood>, <minecraft:obsidian>], [<minecraft:obsidian>, <ore:chipsetRed>, <minecraft:obsidian>]]);
+	recipes.addShaped(<BuildCraft|Transport:filteredBufferBlock>, [[<ore:woodLumber>, <BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond>, <ore:woodLumber>], [<ore:woodLumber>, <ore:chestWood>, <ore:woodLumber>], [<ore:woodLumber>, <minecraft:piston>, <ore:woodLumber>]]);
+	recipes.addShaped(<BuildCraft|Builders:libraryBlock>, [[<ore:plateDoubleWroughtIron>, <ore:gearIron>, <ore:plateDoubleWroughtIron>], [<terrafirmacraft:Bookshelf>, <BuildCraft|Builders:blueprintItem>, <terrafirmacraft:Bookshelf>], [<ore:plateDoubleWroughtIron>, <ore:dustRedstone>, <ore:plateDoubleWroughtIron>]]);
+	recipes.addShaped(<BuildCraft|Builders:architectBlock>, [[<ore:dyeBlack>, <BuildCraft|Core:markerBlock>, <ore:dyeBlack>], [<ore:dyeYellow>, <ore:craftingTableWood>, <ore:dyeYellow>], [<ore:gearDiamond>, <BuildCraft|Builders:blueprintItem>, <ore:gearDiamond>]]);
+	recipes.addShaped(<BuildCraft|Builders:builderBlock>, [[<ore:dyeBlack>, <BuildCraft|Core:markerBlock>, <ore:dyeBlack>], [<ore:dyeYellow>, <ore:craftingTableWood>, <ore:dyeYellow>], [<ore:gearDiamond>, <ore:chestWood>, <ore:gearDiamond>]]);
+	recipes.addShaped(<BuildCraft|Builders:fillerBlock>, [[<ore:dyeBlack>, <BuildCraft|Core:markerBlock>, <ore:dyeBlack>], [<ore:dyeYellow>, <ore:craftingTableWood>, <ore:dyeYellow>], [<ore:gearGold>, <ore:chestWood>, <ore:gearGold>]]);
+	recipes.addShaped(<BuildCraft|Builders:machineBlock>, [[<ore:gearIron>, <ore:dustRedstone>, <ore:gearIron>], [<ore:gearGold>, <ore:gearIron>, <ore:gearGold>], [<ore:gearDiamond>, <terrafirmacraft:item.Steel Pick>, <ore:gearDiamond>]]);
+	recipes.addShaped(<BuildCraft|Core:pathMarkerBlock>, [[<ore:dyeGreen>], [<minecraft:redstone_torch>]]);
+	recipes.addShaped(<BuildCraft|Core:engineBlock:2>, [[<terrafirmacraft:item.Steel Sheet>, <terrafirmacraft:item.Steel Sheet>, <terrafirmacraft:item.Steel Sheet>], [<minecraft:redstone>, <minecraft:glass>, <minecraft:redstone>], [<BuildCraft|Core:ironGearItem>, <minecraft:piston>, <BuildCraft|Core:ironGearItem>]]);
+	recipes.addShaped(<BuildCraft|Core:engineBlock:1>, [[<ore:plateWroughtIron>, <ore:plateWroughtIron>, <ore:plateWroughtIron>], [<ore:dustRedstone>, <ore:blockGlassColorless>, <ore:dustRedstone>], [<ore:gearStone>, <minecraft:piston>, <ore:gearStone>]]);
+	recipes.addShaped(<BuildCraft|Core:engineBlock>, [[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>], [<ore:dustRedstone>, <ore:blockGlassColorless>, <ore:dustRedstone>], [<ore:gearWood>, <minecraft:piston>, <ore:gearWood>]]);
+	
+//Rename
+	
+	<BuildCraft|Core:woodenGearItem>.displayName = "Copper Gear";
+	<BuildCraft|Core:stoneGearItem>.displayName = "Iron Gear";
+	<BuildCraft|Core:ironGearItem>.displayName = "Steel Gear";
+	<BuildCraft|Core:goldGearItem>.displayName = "Gold Gear";
+	<BuildCraft|Core:diamondGearItem>.displayName = "Blue Steel Gear";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemswood>.displayName = "Copper Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald>.displayName = "Bronze Bismuth Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone>.displayName = "Lead Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone>.displayName = "Nickel Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz>.displayName = "Zinc Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond>.displayName = "Bismuth Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian>.displayName = "Bismuth Bronze Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli>.displayName = "Bizuli Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone>.displayName = "Silver Transport Pipe";
+	<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>.displayName = "Tin Transport Pipe";

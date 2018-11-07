@@ -2,5 +2,21 @@
   "_name": "EnderDragon",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+    {
+    "_comment": "increase the mob's attack strength",
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": "60~800",
+    "override": true
+    },
+    {
+    "_comment": "increase the mob's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 500000,
+	"override": true,
+    "operator": 1
+    }
+  ]
 }

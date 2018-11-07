@@ -1,0 +1,128 @@
+{
+	"name" : "loot1",
+	"loot_rules" : [
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "tfcm:item.Copper_Chain_Helmet", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "tfcm:item.Copper_Chain_Chestplate", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "tfcm:item.Copper_Chain_Greaves", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Boots", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Helmet", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Chestplate", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Greaves", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Boots", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bismuth Bronze Helmet", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bismuth Bronze Chestplate", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bismuth Bronze Greaves", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Boots", "ench" : 5}, "weight" : 1}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.Copper Axe", "ench" : 5}, "weight" : 6},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Javelin", "ench" : 5}, "weight" : 4},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Sword", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Mace", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "tfcm:item.Halberd_Copper", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.WarHammer_Copper", "ench" : 5}, "weight" : 1}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.Copper Pick", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Axe", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Shovel", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper ProPick", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Pick", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Axe", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Shovel", "ench" : 5}, "weight" : 1}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "terrafirmacraft:item.coal", "min" : 1, "max" : 3}, "weight" : 10},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 1 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 2 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 3 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 4 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 5 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 6 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 7 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 8 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 9 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "meta" : 10 ,"min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Diamond", "meta" : 2, "min" : 1, "max" : 1}, "weight" : 1}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 6
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "tfcm:item.Copper_Chain_Helmet", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "tfcm:item.Copper_Chain_Chestplate", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "tfcm:item.Copper_Chain_Greaves", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Boots", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Helmet", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Chestplate", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Greaves", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Boots", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bismuth Bronze Helmet", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bismuth Bronze Chestplate", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bismuth Bronze Greaves", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Black Bronze Boots", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Axe", "ench" : 5}, "weight" : 6},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Javelin", "ench" : 5}, "weight" : 4},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Sword", "ench" : 5}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Mace", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "tfcm:item.Halberd_Copper", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "tfcm:item.WarHammer_Copper", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Pick", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Axe", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper Shovel", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Copper ProPick", "ench" : 5}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Pick", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Axe", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Bronze Shovel", "ench" : 5}, "weight" : 1},
+				{"data" : {"name" : "slime_ball"}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.TFC Leather"}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:item.LooseRock"}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Ore", "min" : 1, "max" : 2, "meta" : 46}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Wheat", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Carrot", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Potato", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Jute", "min" : 1, "max" : 3}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.Seeds Maize", "min" : 1, "max" : 3}, "weight" : 5},
+				{"data" : {"name" : "terrafirmacraft:BerryBush", "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:BerryBush", "meta" : 5, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "terrafirmacraft:BerryBush", "meta" : 7, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "lwstfc:item.LeatherWaterSac"}, "weight" : 2},
+				{"data" : {"name" : "terrafirmacraft:item.arrow", "min" : 4, "max" : 10}, "weight" : 2 },
+				{"data" : {"name" : "snowball"}, "weight" : 2},
+				{"data" : {"name" : "lead"}, "weight" : 1},
+				{"data" : {"name" : "terrafirmacraft:item.WoolYarn"}, "weight" : 5},
+				{"data" : {"name" : "string"}, "weight" : 1},				
+				{"data" : {"name" : "OpenBlocks:sleepingBag"}, "weight" : 1},
+				{"data" : {"name" : "gunpowder", "min" : 1, "max" : 3}, "weight" : 1}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 5
+		}
+	]
+}

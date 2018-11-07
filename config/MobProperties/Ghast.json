@@ -2,6 +2,12 @@
   "_name": "Ghast",
   "drops": [
             {
+              "function": "add",
+              "id": "TConstruct:materials",
+			  "damage": 8,
+              "count": "0.2"
+			},
+            {
               "function": "remove",
               "id": "minecraft:ghast_tear"
 			},

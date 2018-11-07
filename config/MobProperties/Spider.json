@@ -7,14 +7,14 @@
     "_comment": "increase the spider's attack strength",
     "function": "modifier",
     "attribute": "generic.attackDamage",
-    "value": 10~50,
+    "value": 10~80,
     "override": true
     },
     {
     "_comment": "increase the spider's max health",
     "function": "modifier",
     "attribute": "generic.maxHealth",
-    "value": 1800,
+    "value": 2000,
 	"override": true,
     "operator": 1
     }

@@ -1,0 +1,28 @@
+{
+	"name" : "tower",
+	"tower" : {
+		"type" : "ENIKO",
+		"theme" : {
+			"base" : "CRYPT",
+			"primary" : {
+				"walls" : {
+					"type" : "LAYERS",
+					"data" : [
+						{"name" : "tfcadditions:OutlinedPlanks", "meta" : 12},
+						{"name" : "tfcadditions:OutlinedPlanks", "meta" : 12},
+						{"name" : "tfcadditions:OutlinedPlanks", "meta" : 12},
+						{"name" : "tfcadditions:LargePlanks", "meta" : 5}
+					]
+				},
+				"pillar" : {"name" : "steamcraft2:BlockBrassLog", "meta" : 0},
+				"stair" : {"name" : "customitems:hickory_plank_stairs", "meta" : 0},
+				"floor" : {"name" : "tfcadditions:LargePlanks", "meta" : 5}
+			},
+			"secondary" : {
+				"walls" : {"name" : "tfcadditions:LargePlanks", "meta" : 5},
+				"pillar" : {"name" : "customitems:full_hickory_log", "meta" : 0},
+				"stair" : {"name" : "customitems:hickory_large_plank_stairs", "meta" : 0}
+			}
+		}
+	}
+}

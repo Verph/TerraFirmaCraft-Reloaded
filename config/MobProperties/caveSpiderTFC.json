@@ -32,5 +32,14 @@
       ]
     }
   ],
-  "stats": []
+  "stats": [
+		{
+			"_comment": "increase the mobs' max health",
+			"function": "modifier",
+			"attribute": "generic.maxHealth",
+			"value": 3000,
+			"override": true,
+			"operator": 1
+		}
+	]
 }

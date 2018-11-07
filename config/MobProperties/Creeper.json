@@ -2,5 +2,14 @@
   "_name": "Creeper",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [
+    {
+    "_comment": "increase the creeper's max health",
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 1500,
+	"override": true,
+    "operator": 1
+    }
+  ]
 }

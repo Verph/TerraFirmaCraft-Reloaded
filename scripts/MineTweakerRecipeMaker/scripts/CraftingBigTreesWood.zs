@@ -29,9 +29,9 @@
 	recipes.addShapeless(<customitems:stripped_ebony_log>, [<minecraft:log2:1>, <ore:itemAxe>.transformDamage(1)]);
 	recipes.addShapeless(<customitems:stripped_juniper_log>, [<psychedelicraft:psycheLog>, <ore:itemAxe>.transformDamage(1)]);
 	
-	//recipes.addShapeless(<customitems:stripped_cherry_log>, [<dendrology:logs0>, <ore:itemAxe>.transformDamage(1)]);
-	//recipes.addShapeless(<customitems:stripped_rowan_log>, [<dendrology:logs0:2>, <ore:itemAxe>.transformDamage(1)]);
-	//recipes.addShapeless(<customitems:stripped_hagberry_log>, [<dendrology:logs1:3>, <ore:itemAxe>.transformDamage(1)]);
+	recipes.addShapeless(<customitems:stripped_cherry_log>, [<dendrology:logs0>, <ore:itemAxe>.transformDamage(1)]);
+	recipes.addShapeless(<customitems:stripped_rowan_log>, [<dendrology:logs0:2>, <ore:itemAxe>.transformDamage(1)]);
+	recipes.addShapeless(<customitems:stripped_hagberry_log>, [<dendrology:logs1:3>, <ore:itemAxe>.transformDamage(1)]);
 
 //Lumber using logs
 
@@ -43,9 +43,9 @@
 	recipes.addShapeless(<customitems:ebony_lumber> * 8, [<minecraft:log2:1>, <ore:itemSaw>.transformDamage(1)]);
 	recipes.addShapeless(<customitems:juniper_lumber> * 8, [<psychedelicraft:psycheLog>, <ore:itemSaw>.transformDamage(1)]);
 	
-	//recipes.addShapeless(<customitems:cherry_lumber> * 8, [<dendrology:logs0>, <ore:itemSaw>.transformDamage(1)]);
-	//recipes.addShapeless(<customitems:rowan_lumber> * 8, [<dendrology:logs0:2>, <ore:itemSaw>.transformDamage(1)]);
-	//recipes.addShapeless(<customitems:hagberry_lumber> * 8, [<dendrology:logs1:3>, <ore:itemSaw>.transformDamage(1)]);
+	recipes.addShapeless(<customitems:cherry_lumber> * 8, [<dendrology:logs0>, <ore:itemSaw>.transformDamage(1)]);
+	recipes.addShapeless(<customitems:rowan_lumber> * 8, [<dendrology:logs0:2>, <ore:itemSaw>.transformDamage(1)]);
+	recipes.addShapeless(<customitems:hagberry_lumber> * 8, [<dendrology:logs1:3>, <ore:itemSaw>.transformDamage(1)]);
 
 //Lumber using planks
 
@@ -97,9 +97,9 @@
 	recipes.addShapeless(<terrafirmacraft:item.Log:1>, [<minecraft:log2:1>]);
 	recipes.addShapeless(<terrafirmacraft:item.Log:9>, [<psychedelicraft:psycheLog>]);
 	
-	//recipes.addShapeless(<terrafirmacraft:item.Log:3>, [<dendrology:logs0>]);
-	//recipes.addShapeless(<terrafirmacraft:item.Log:6>, [<dendrology:logs0:2>]);
-	//recipes.addShapeless(<terrafirmacraft:item.Log:11>, [<dendrology:logs1:3>]);
+	recipes.addShapeless(<terrafirmacraft:item.Log:3>, [<dendrology:logs0>]);
+	recipes.addShapeless(<terrafirmacraft:item.Log:6>, [<dendrology:logs0:2>]);
+	recipes.addShapeless(<terrafirmacraft:item.Log:11>, [<dendrology:logs1:3>]);
 
 	
 //Planks to Slabs and Stairs
@@ -171,8 +171,8 @@
 	recipes.addShaped(<customitems:eucalyptus_log_fence>, [[<customitems:eucalyptus_log>, null, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <ore:stickWood>, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <ore:stickWood>, <customitems:eucalyptus_log>]]);
 	recipes.addShaped(<customitems:cherry_log_fence>, [[<customitems:cherry_log>, null, <customitems:cherry_log>], [<customitems:cherry_log>, <ore:stickWood>, <customitems:cherry_log>], [<customitems:cherry_log>, <ore:stickWood>, <customitems:cherry_log>]]);
 	recipes.addShaped(<customitems:jacaranda_log_fence>, [[<customitems:jacaranda_log>, null, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <ore:stickWood>, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <ore:stickWood>, <customitems:jacaranda_log>]]);
-	//recipes.addShaped(<customitems:rowan_log_fence>, [[<dendrology:logs0:2>, null, <dendrology:logs0:2>], [<dendrology:logs0:2>, <ore:stickWood>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <ore:stickWood>, <dendrology:logs0:2>]]);
-	//recipes.addShaped(<customitems:hagberry_log_fence>, [[<dendrology:logs1:3>, null, <dendrology:logs1:3>], [<dendrology:logs1:3>, <ore:stickWood>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <ore:stickWood>, <dendrology:logs1:3>]]);
+	recipes.addShaped(<customitems:rowan_log_fence>, [[<dendrology:logs0:2>, null, <dendrology:logs0:2>], [<dendrology:logs0:2>, <ore:stickWood>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <ore:stickWood>, <dendrology:logs0:2>]]);
+	recipes.addShaped(<customitems:hagberry_log_fence>, [[<dendrology:logs1:3>, null, <dendrology:logs1:3>], [<dendrology:logs1:3>, <ore:stickWood>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <ore:stickWood>, <dendrology:logs1:3>]]);
 
 //Log Walls	
 
@@ -201,8 +201,8 @@
 	recipes.addShaped(<customitems:eucalyptus_log_wall>, [[<customitems:eucalyptus_log>, <customitems:eucalyptus_log>, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <customitems:eucalyptus_log>, <customitems:eucalyptus_log>]]);
 	recipes.addShaped(<customitems:cherry_log_wall>, [[<customitems:cherry_log>, <customitems:cherry_log>, <customitems:cherry_log>], [<customitems:cherry_log>, <customitems:cherry_log>, <customitems:cherry_log>]]);
 	recipes.addShaped(<customitems:jacaranda_log_wall>, [[<customitems:jacaranda_log>, <customitems:jacaranda_log>, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <customitems:jacaranda_log>, <customitems:jacaranda_log>]]);
-	//recipes.addShaped(<customitems:rowan_log_wall>, [[<dendrology:logs0:2>, <dendrology:logs0:2>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <dendrology:logs0:2>, <dendrology:logs0:2>]]);
-	//recipes.addShaped(<customitems:hagberry_log_wall>, [[<dendrology:logs1:3>, <dendrology:logs1:3>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <dendrology:logs1:3>, <dendrology:logs1:3>]]);
+	recipes.addShaped(<customitems:rowan_log_wall>, [[<dendrology:logs0:2>, <dendrology:logs0:2>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <dendrology:logs0:2>, <dendrology:logs0:2>]]);
+	recipes.addShaped(<customitems:hagberry_log_wall>, [[<dendrology:logs1:3>, <dendrology:logs1:3>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <dendrology:logs1:3>, <dendrology:logs1:3>]]);
 
 //Full Log Block	
 
@@ -231,8 +231,8 @@
 	recipes.addShaped(<customitems:full_eucalyptus_log>, [[<customitems:eucalyptus_log>, <customitems:eucalyptus_log>], [<customitems:eucalyptus_log>, <customitems:eucalyptus_log>]]);
 	recipes.addShaped(<customitems:full_cherry_log>, [[<customitems:cherry_log>, <customitems:cherry_log>], [<customitems:cherry_log>, <customitems:cherry_log>]]);
 	recipes.addShaped(<customitems:full_jacaranda_log>, [[<customitems:jacaranda_log>, <customitems:jacaranda_log>], [<customitems:jacaranda_log>, <customitems:jacaranda_log>]]);
-	//recipes.addShaped(<customitems:full_rowan_log>, [[<dendrology:logs0:2>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <dendrology:logs0:2>]]);
-	//recipes.addShaped(<customitems:full_hagberry_log>, [[<dendrology:logs1:3>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <dendrology:logs1:3>]]);
+	recipes.addShaped(<customitems:full_rowan_log>, [[<dendrology:logs0:2>, <dendrology:logs0:2>], [<dendrology:logs0:2>, <dendrology:logs0:2>]]);
+	recipes.addShaped(<customitems:full_hagberry_log>, [[<dendrology:logs1:3>, <dendrology:logs1:3>], [<dendrology:logs1:3>, <dendrology:logs1:3>]]);
 	
 //Vanilla Logs Rename
 
@@ -263,7 +263,7 @@
 	
 //Remove recipes
 
-	//recipes.remove(<dendrology:wood0:*>);
+	recipes.remove(<dendrology:wood0:*>);
 	
 //Ore Dictionary	
 	

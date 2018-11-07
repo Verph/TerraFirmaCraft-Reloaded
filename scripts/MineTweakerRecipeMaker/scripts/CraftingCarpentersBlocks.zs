@@ -118,3 +118,17 @@ recipes.remove(<CarpentersBlocks:itemCarpentersTile>);
 recipes.addShaped(<CarpentersBlocks:itemCarpentersTile> * 12,
  [[mudBricks, mudBricks, mudBricks],
   [cblock, cblock, cblock]]);
+  
+	//recipes.remove(<CarpentersBlocks:blockCarpentersTorch>);
+	//recipes.remove(<CarpentersBlocks:itemCarpentersHammer>);
+	//recipes.remove(<CarpentersBlocks:itemCarpentersChisel>);
+	//recipes.remove(<CarpentersBlocks:blockCarpentersDaylightSensor>);
+	//recipes.remove(<CarpentersBlocks:blockCarpentersSafe>);
+	
+	//recipes.addShaped(<CarpentersBlocks:itemCarpentersChisel>, [[<ore:ingotIron>], [<CarpentersBlocks:blockCarpentersBlock>]]);
+	//recipes.addShaped(<CarpentersBlocks:itemCarpentersHammer>, [[<ore:ingotIron>, <ore:ingotIron>, null], [null, <CarpentersBlocks:blockCarpentersBlock>, <ore:ingotIron>], [null, <CarpentersBlocks:blockCarpentersBlock>, null]]);
+	//recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch> * 8, [[<ore:gemCharcoal>], [<CarpentersBlocks:blockCarpentersBlock>]]);
+	//recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch> * 8, [[<ore:gemCoal>], [<CarpentersBlocks:blockCarpentersBlock>]]);
+	//recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch> * 8, [[<ore:oreCoal>], [<CarpentersBlocks:blockCarpentersBlock>]]);
+	//recipes.addShaped(<CarpentersBlocks:blockCarpentersSafe>, [[<CarpentersBlocks:blockCarpentersBlock>, <CarpentersBlocks:blockCarpentersBlock>, <CarpentersBlocks:blockCarpentersBlock>], [<CarpentersBlocks:blockCarpentersBlock>, <ore:plateSteel>, <CarpentersBlocks:blockCarpentersBlock>], [<CarpentersBlocks:blockCarpentersBlock>, <ore:dustRedstone>, <CarpentersBlocks:blockCarpentersBlock>]]);
+	//recipes.addShaped(<CarpentersBlocks:blockCarpentersDaylightSensor>, [[<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>], [<ore:dustRedstone>, <ore:dyeBlue>, <ore:dustRedstone>], [<CarpentersBlocks:blockCarpentersBlock>, <CarpentersBlocks:blockCarpentersBlock>, <CarpentersBlocks:blockCarpentersBlock>]]);

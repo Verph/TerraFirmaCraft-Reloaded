@@ -1,0 +1,120 @@
+{
+	"name" : "themes",
+	"levels" : {
+		"0" : {
+			"theme" : {
+				"base" : "QUARTZ",
+				"primary" : {
+					"walls" : {
+						"type" : "LAYERS",
+						"data" : [
+							{"name" : "terrafirmacraft:StoneSedBrick", "meta" : 0},
+							{
+								"type" : "COLUMNS",
+								"data" : [
+									{"name" : "terrafirmacraft:StoneIgExBrick", "meta" : 1},
+									{"name" : "tfcadditions:StoneIGEXDent", "meta" : 1},
+									{"name" : "tfcadditions:OutlinedPlanks", "meta" : 5},
+									{"name" : "tfcadditions:OutlinedPlanks", "meta" : 5},
+									{"name" : "tfcadditions:StoneSEDDent", "meta" : 0},
+									{"name" : "terrafirmacraft:StoneSedSmooth", "meta" : 0}
+								]
+							},
+							{"name" : "tfcadditions:StoneIGEXDent", "meta" : 1}
+						]
+					},
+					"pillar" : {"name" : "tfcadditions:VerticalPlanks", "meta" : 5},
+					"floor" : {
+						"type" : "STRIPES",
+						"data" : [
+							{"name" : "tfcadditions:OutlinedPlanks", "meta" : 3},
+							{"name" : "tfcadditions:ParquetPlanks", "meta" : 9},
+							{"name" : "tfcadditions:OutlinedPlanks", "meta" : 3},
+							{"name" : "tfcadditions:OutlinedPlanks", "meta" : 3},
+							{"name" : "tfcadditions:ParquetPlanks", "meta" : 9},
+							{"name" : "tfcadditions:OutlinedPlanks", "meta" : 9},
+							{"name" : "tfcadditions:OutlinedPlanks", "meta" : 9}
+						]
+					},
+					"stair" : {"name" : "customitems:hickory_large_plank_stairs", "meta" : 0}
+				},
+				"secondary" : {
+					"walls" : {"name" : "tfcadditions:StoneSEDDentSmall", "meta" : 0},
+					"floor" : {
+						"type" : "STRIPES",
+						"data" : [
+							{"name" : "tfcadditions:StoneSEDDent", "meta" : 5},
+							{"name" : "tfcadditions:StoneSEDDentSmall", "meta" : 5}
+						]
+					},
+					"stair" : {"name" : "customitems:hickory_large_plank_stairs", "meta" : 0},
+					"pillar" : {"name" : "terrafirmacraft:WallBrickIgEx", "meta" : 1}
+				}
+			}
+		},
+		"1" : {
+			"theme" : {
+				"base" : "SEWER",
+				"primary" : {
+					"walls" : {"name" : "terrafirmacraft:StoneSedBrick", "meta" : 4},
+					"pillar" : {"name" : "tfcm:blockRoadSed", "meta" : 6},
+					"floor" : {"name" : "terrafirmacraft:StoneSedSmooth", "meta" : 4},
+					"stair" : {"name" : "customitems:hickory_large_plank_stairs"}
+				},
+				"secondary" : {
+					"walls" : {"name" : "tfcm:blockRoadSed", "meta" : 6},
+					"floor" : {"name" : "terrafirmacraft:StoneSedBrick", "meta" : 4},
+					"stair" : {"name" : "customitems:hickory_large_plank_stairs"},
+					"pillar" : {"name" : "terrafirmacraft:StoneSedBrick", "meta" : 4}
+				}
+			}
+		},
+		"2" : {
+			"theme" : {
+				"base" : "CRYPT",
+				"primary" : {
+					"walls" : {
+						"type" : "LAYERS",
+						"data" : [
+							{"name" : "terrafirmacraft:StoneIgInBrick", "meta" : 1},
+							{"name" : "tfcadditions:StoneIGEXDent", "meta" : 2},
+							{
+								"type" : "COLUMNS",
+								"data" : [
+									{"name" : "tfcadditions:StoneIGINDentSmall", "meta" : 1},
+									{"name" : "tfcadditions:StoneIGINDentSmall", "meta" : 1},
+									{"name" : "tfcm:blockRoadSed", "meta" : 0},
+									{"name" : "tfcadditions:StoneIGINDentSmall", "meta" : 0},
+									{"name" : "tfcadditions:StoneIGINDentSmall", "meta" : 0}
+								]
+							},
+							{"name" : "terrafirmacraft:StoneSedSmooth", "meta" : 5}
+						]
+					},
+					"pillar" : {"name" : "customitems:diorite_pillar", "meta" : 0},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{"name" : "terrafirmacraft:StoneSed", "meta" : 0},
+							{"name" : "terrafirmacraft:StoneSedBrick", "meta" : 0},
+							{"name" : "tfcm:blockRoadSed", "meta" : 0}
+						]
+					},
+					"stair" : {"name" : "customitems:limestone_tile_stairs", "meta" : 0}
+				},
+				"secondary" : {
+					"walls" : {"name" : "tfcadditions:OutlinedPlanks", "meta" : 1},
+					"floor" : {
+						"type" : "STRIPES",
+						"data" : [
+							{"name" : "terrafirmacraft:planks", "meta" : 4},
+							{"name" : "terrafirmacraft:planks", "meta" : 5}
+						]
+					},
+					"stair" : {"name" : "customitems:limestone_tile_stairs", "meta" : 0},
+					"pillar" : {"name" : "terrafirmacraft:StoneIgInSmooth", "meta" : 1 }
+				}
+			}
+		}
+	}
+}
